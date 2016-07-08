@@ -1,0 +1,12 @@
+{name : 'Room 17' , capacity : 10 ,address : 'Shevchenko str. 146', pc : true, whiteboard : true }
+{name : 'Room 18a' , capacity : 10 ,address : 'Shevchenko str. 146', pc : true, whiteboard : true}
+{name : 'Room 27' , capacity : 4 ,address : 'Shevchenko str. 146'}
+{name : 'Room 30' , capacity : 4 ,address : 'Shevchenko str. 146'}
+{name : 'Room Future' , capacity : 20 ,address : 'Shevchenko str. 146', pc : true, whiteboard : true , test : true}
+{name : 'Room Future' , capacity : 20 ,address : 'Shevchenko str. 146', pc : true, whiteboard : true , test : true}
+{name : 'Room Future' , capacity : 20 ,address : 'Shevchenko str. 146', pc : true, whiteboard : true, test : true}
+{name : 'Room Future' , capacity : 20 ,address : 'Shevchenko str. 146', pc : true, whiteboard : true, test : true}
+
+
+
+

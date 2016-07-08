@@ -1,0 +1,35 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "NodeJs Team project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gotikesD/booking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gotikesD/booking/issues"
+  },
+  "homepage": "https://github.com/gotikesD/booking#readme",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.1",
+    "co": "^4.6.0",
+    "express": "^4.13.4",
+    "joi": "^8.1.1",
+    "jsonwebtoken": "^7.0.0",
+    "log4js": "^0.6.37",
+    "mocha": "^2.5.3",
+    "moment": "^2.13.0",
+    "mongoose": "^4.4.19",
+    "sha256": "^0.2.0",
+    "should": "^8.4.0",
+    "socket.io": "^1.4.8",
+    "supertest": "^1.2.0"
+  }
+}

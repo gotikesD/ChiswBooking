@@ -1,0 +1,79 @@
+DB MODELS STRUCTURE : 
+
+	room
+	{
+		name - 'Meeting Room №..'
+		capacity - 'from 2 to ...'		
+		stage - 'Stage №..'
+		busyTime - [{Day : May 8 2016, reservedTime : { start : 8.00, end : 8.30} , meetingId : 123{Index , which we will use for showing more detail info about meeting } },{},{}]	
+		currentState [busy,free] available(available some hours per day)]
+		dayState [ if there are no available time (false), else  - true]	
+	}
+
+		comments : "FrontSide of the app will calculate available wime, which is between 8am-20pm , maybe with interval per 30 minutes"
+
+
+	meeting
+	{
+		title - [ Call with the costumers ],
+		date - 'Selected day - 10 July 2016 '
+		start - ' not earlier than 8 am, but limited by currently buising time(is this case from 8am and 15pm )'
+		end - 'no later than 20pm,  but limited by currently buising time(is this case to 10am and 20pm )'
+		room 'Room name'
+		capacity 'Room capacity'
+		Client - will automatically assigned from person, which is login (means email)
+	}
+
+		comments : "This allows us to confirm meeting(push object into Room.busyTime), delete meeting(delete from Room.busyTime) and etc"
+
+	
+
+	user
+	{
+		firstName,
+		secondName,
+		email with the compulsory part 'chisw'. Example - some@chisw.com  ??? 
+		password
+	}
+
+
+
+
+
+Available routes(separeted by user status)
+
+
+	Not logged user : 
+
+		/rooms GET - get the list of all rooms 
+		/rooms/:id GET - get certain room (general info) 
+		/rooms/stage/:stageNumber GET - get all rooms per stage (general info)
+		/auth/login POST - attempt to login
+		/auth/sign POST - attempt to signup
+
+
+	Currently logged user : 
+		
+		/meetings GET - get all meetings with params(dayly, weekly, monthly view)
+		/meetings/:id GET - get  info about ?? certain meeting 
+		/meetings/:id POST - take a meeting ( take available time, which is !busyTime) 
+		/meetings/:id PUT - change meeting params (change time ??? ) {for meeting owner}
+		/meetings/:id DELETE - delete meeting {for meeting owner}
+		/profile/:id - GET current user info {current user}
+		/profile/history - GET list of your own meetings(meetings which are you sumbit)
+		/profile/:id PUT - change current user params
+
+
+
+
+	Admin : 
+		/rooms/:id POST - add room   {only for admin or moderator}
+		/rooms/:id PUT - change room props {only for admin or moderator}
+		/rooms/:id DELETE - delete room {only for admin or moderator}
+		/users GET - get all user
+		/users/:id GET - get certain user
+		/users/:id DELETE - delete user
+
+
+
+
