@@ -220,6 +220,55 @@ module.exports = {
       })
   } ,
 
+  checkCurrentFirstStep: (req, res, next) => {
+
+    const USER_ID = jwt.verify(req.headers[`x-access-token`], `silverSecret`)._doc._id;
+    let start = moment(req.body.start).format();
+    let end = moment(req.body.end).format();
+
+
+
+    Meeting.find({client: USER_ID})
+      .then((meetings) => {
+        if (!meetings) {
+          logger.warn(`There are no meetings to user ${USER_ID} to check a the time ${CURRENT_TIME}`);
+          next();
+        } else {
+          if (meetings.length === 0) {
+            logger.warn(`There are no meetings to user ${USER_ID} to check a the time ${CURRENT_TIME}`);
+            next();
+          } else {
+            let capture;
+            meetings.forEach((m) => {
+
+              const MONTH_DAY_RULE = moment(m.start).date() == moment(start).date() && moment(start).month() == moment(m).month()
+              const START_RULE = start >= m.start && start <=m.end;
+              const END_RULE = end >= m.start && end <= m.end;
+              const START_WITH_END_RULE = start >= m.start && end <=m.end;
+              const EXTRA_RULE = start <= m.start && end >= m.end;
+
+              if(MONTH_DAY_RULE) {
+                if (START_RULE || END_RULE || START_WITH_END_RULE || EXTRA_RULE) {
+                  capture = m;
+                }
+              }
+            });
+
+            if(capture) {
+              next(new Error(`You already take meeting at this time`))
+            } else {
+              logger.info(`User ${USER_ID} past First step meeting check`);
+              next()
+            }
+          }
+        }
+      })
+      .catch((error) => {
+        error.statusCode = 404;
+        next(error)
+      })
+  } ,
+
 
   getSingleRoomMeetings: (req, res, next) => {
 

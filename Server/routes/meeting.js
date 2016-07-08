@@ -12,7 +12,7 @@ router.post(`/quick/:roomId`, middleware.checkUserStatus, controller.checkCurren
 router.delete(`/quickCancel/:roomId`, middleware.checkUserStatus, controller.cancelQuickMeeting);
 router.delete(`/cancel/:roomId`, middleware.checkUserStatus, controller.cancelMeeting);
 
-router.post(`/regular/:roomId`, middleware.checkUserStatus, controller.checkCurrentQuick, controller.checkCurrent, controller.addMeeting);
+router.post(`/regular/:roomId`, middleware.checkUserStatus,controller.checkCurrentFirstStep, controller.checkCurrent, controller.addMeeting);
 
 
 
