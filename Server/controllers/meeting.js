@@ -181,7 +181,7 @@ module.exports = {
 
     const ROOM = req.params.roomId;
 
-    Meeting.find({client : USER_ID})
+    Meeting.find({_id : ROOM})
       .then((meetings) => {
         if (!meetings) {
           next();
