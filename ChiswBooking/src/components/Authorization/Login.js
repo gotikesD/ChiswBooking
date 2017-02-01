@@ -6,8 +6,6 @@ import { View, Text , TextInput , TouchableHighlight , AsyncStorage, Image } fro
 import Api from '../../api'
 import styles from '../../styles/'
 
-
-
 class Login extends React.Component {
 
   constructor(props) {
@@ -25,6 +23,7 @@ class Login extends React.Component {
   }
 
   loginAttempt() {
+
     let email = this.state.email;
     let password = this.state.password;
 
@@ -32,12 +31,13 @@ class Login extends React.Component {
     const PASS_CHECK = password.length > 5 && password.length < 10;
 
     if(!EMAIL_CHECK) {
-      alert('Please enter valid email')
+      alert('Please enter valid a email')
     }
     else if(!PASS_CHECK) {
       alert('Password must be from 6 to 10')
     }
     if(EMAIL_CHECK && PASS_CHECK) {
+
       Api.login(email,password, (answer) => {
         if(typeof answer === 'string'){
           this.setToken(answer)
@@ -53,10 +53,6 @@ class Login extends React.Component {
   }
 
   render() {
-
-
-
-
     return (
       <View>
           <View style={styles.logoHolder}>
@@ -80,7 +76,7 @@ class Login extends React.Component {
         </View>
         <TouchableHighlight style={styles.buttons} onPress={this.loginAttempt.bind(this)}>
           <Text style={styles.buttonText}>
-            Log In
+            zzzrt
           </Text>
         </TouchableHighlight>
 
@@ -93,8 +89,5 @@ class Login extends React.Component {
     )
   }
 }
-
-
-
 
 export default Login

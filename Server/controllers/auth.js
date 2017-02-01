@@ -34,16 +34,18 @@ module.exports = {
   },
 
   login : (req,res,next) => {
-    const email = req.body.email;
-    const password = req.body.password;
+    const email = req.body.email.toString();
+    const password = req.body.password.toString();
+    console.log(email, password);
     User.findOne({email : email})
         .then((user) => {
+          console.log('user: ', user);
           if (!user) {
             const error = new Error(`User with current email not Found or bad password`);
             error.statusCode = 404;
             next(error)
           } else {
-            if ( sha256(password) === user.password) {
+            if ( req.body.password === user.password) {
               const token = jwt.sign(user, `silverSecret`);
               logger.info(`User with ${email} login`);
               res.json(token)

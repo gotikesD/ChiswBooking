@@ -5,7 +5,6 @@ import Api from '../../api'
 import styles from '../../styles/'
 import validator from 'validator'
 
-
 class SignCheck extends React.Component {
 
   constructor(props) {
@@ -37,7 +36,6 @@ class SignCheck extends React.Component {
     }
   }
 
-
   render() {
 
     return(
@@ -63,8 +61,5 @@ class SignCheck extends React.Component {
     )
   }
 }
-
-
-
 
 export default SignCheck

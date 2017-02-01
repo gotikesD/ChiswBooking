@@ -34,7 +34,6 @@ var styles = StyleSheet.create({
     color : 'rgb(133,128,142)'
   },
   inputHolder : {
-
     borderWidth : 1,
     borderColor : 'rgb(41,39,39)',
     marginBottom : 20,
@@ -64,7 +63,7 @@ var styles = StyleSheet.create({
   mainListItem : {
     marginBottom : 10 ,
     width : width/2 - 20,
-    height : height/4 - 25,
+    height : height/4 - 35,
     marginLeft : 10,
     marginRight : 10,
     borderWidth : 1,
@@ -76,7 +75,7 @@ var styles = StyleSheet.create({
     color : 'rgb(252,252,252)'
   },
   roomMainNumber : {
-    fontSize : 40,
+    fontSize : 30,
     fontFamily : 'arial',
   },
   roomMainNumberHolder : {
@@ -88,16 +87,23 @@ var styles = StyleSheet.create({
   },
   roomWord : {marginLeft : 10} ,
   hoverBlock : {
-    flexDirection : 'row',
     width : width/2 - 20,
-    height : height/4 - 25,
+    height : height/4 - 35,
+    paddingLeft : 10,
+    paddingTop : 10,
     position: 'absolute',
+    flexDirection : 'column',
     top: 0,
     left : 10,
-    backgroundColor : 'rgba(255,255,255,0.7)',
-    alignItems : 'center',
-
+    backgroundColor : 'rgba(255,255,255,0.9)',
     flex : 1,
+  },
+  hoverImage : {
+    width : 100,
+    height : 20,
+    marginBottom : 15,
+
+    resizeMode : 'stretch'
   },
   ownRoom : {position : 'absolute', right : 10 , top : 10, width : 15, height : 15},
   containerCalendar : {
@@ -106,7 +112,8 @@ var styles = StyleSheet.create({
     alignItems: 'center',
   },
   roomInfoImg : {
-    height : height/3 ,
+    resizeMode : 'stretch',
+    height : height/3 - 40,
     marginBottom : 15
   },
   infoHolder : {
@@ -119,11 +126,14 @@ var styles = StyleSheet.create({
     flexDirection : 'row'
   },
   infoNameStatus : {
+    resizeMode : 'stretch',
+    width: 15,
+    height : 15,
     marginLeft : 10,
-    marginBottom : 15
+    marginBottom : 0
   },
   infoUnderline : {
-    paddingBottom : 15,
+    paddingBottom : 10,
     borderBottomWidth : 1,
     borderBottomColor :  'rgba(41,39,39, 0.1)'
   },
@@ -133,7 +143,7 @@ var styles = StyleSheet.create({
   scrollView : {
     paddingTop : 10,
     backgroundColor : 'rgba(222,222,222,0.6)',
-    height : height-80
+    height : height-100
   },
   Blur  : {position : 'absolute', backgroundColor : 'rgba(255,255,255,0.9)', top : 0, bottom : 0 ,left : 0, right : 0},
 

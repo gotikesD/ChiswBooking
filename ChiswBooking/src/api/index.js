@@ -1,3 +1,4 @@
+import 'whatwg-fetch';
 import { AsyncStorage } from 'react-native'
 const API_HEADERS = {
   'Accept' : `application/json`,
@@ -8,19 +9,23 @@ const API_HEADERS = {
 module.exports = {
 
   login(email, password , callback) {
+
     const requestBody = {
       email : email,
       password : password
     };
-    fetch(`http://192.168.2.193:3000/auth/login`, {
+
+    fetch(`http://192.168.3.38:3000/auth/login`, {
       method : `post`,
       headers : API_HEADERS,
       body : JSON.stringify(requestBody)
     })
       .then((response) => {
+
         return response.json()
       })
       .then((responseData) => {
+
         callback(responseData)
       })
       .catch((error) => {
@@ -32,7 +37,7 @@ module.exports = {
     const requestBody = {
       email : email
     };
-    fetch(`http://192.168.2.193:3000/auth/check`, {
+    fetch(`http://192.168.3.38:3000/auth/check`, {
       method : `post`,
       headers : API_HEADERS,
       body : JSON.stringify(requestBody)
@@ -52,7 +57,7 @@ module.exports = {
   sign(user, callback) {
     const requestBody = user;
 
-    fetch(`http://192.168.2.193:3000/auth/sign`, {
+    fetch(`http://192.168.3.38:3000/auth/sign`, {
       method : `post`,
       headers : API_HEADERS,
       body : JSON.stringify(requestBody)
@@ -70,7 +75,7 @@ module.exports = {
 
 
   allRooms(callback) {
-    fetch(`http://192.168.2.193:3000/rooms/`)
+    fetch(`http://192.168.3.38:3000/rooms/`)
       .then((response) => {
         return response.json()
       })
@@ -88,7 +93,7 @@ module.exports = {
       'x-access-token' : token
     }
 
-    fetch(`http://192.168.2.193:3000/meetings`, {
+    fetch(`http://192.168.3.38:3000/meetings`, {
       headers : headers
     })
       .then((response) => {
@@ -110,7 +115,7 @@ module.exports = {
       'date' : date
     }
 
-    fetch(`http://192.168.2.193:3000/meetings/single/${roomId}`, {
+    fetch(`http://192.168.3.38:3000/meetings/single/${roomId}`, {
       headers : headers
     })
       .then((response) => {
@@ -130,7 +135,7 @@ module.exports = {
       userId : userId
     };
 
-    fetch(`http://192.168.2.193:3000/rooms/${roomId}`, {
+    fetch(`http://192.168.3.38:3000/rooms/${roomId}`, {
       method : `post`,
       headers : API_HEADERS,
       body : JSON.stringify(requestBody)
@@ -152,7 +157,7 @@ module.exports = {
       userId : userId
     };
 
-    fetch(`http://192.168.2.193:3000/rooms/${roomId}`, {
+    fetch(`http://192.168.3.38:3000/rooms/${roomId}`, {
       method : `delete`,
       headers : API_HEADERS,
       body : JSON.stringify(requestBody)
@@ -172,7 +177,7 @@ module.exports = {
 
     API_HEADERS['x-access-token'] = token;
 
-    fetch(`http://192.168.2.193:3000/meetings/quick/${roomId}`, {
+    fetch(`http://192.168.3.38:3000/meetings/quick/${roomId}`, {
       method : `post`,
       headers : API_HEADERS
     })
@@ -191,7 +196,7 @@ module.exports = {
 
     API_HEADERS['x-access-token'] = token;
 
-    fetch(`http://192.168.2.193:3000/meetings/quickCancel/${roomId}`, {
+    fetch(`http://192.168.3.38:3000/meetings/quickCancel/${roomId}`, {
       method : `delete`,
       headers : API_HEADERS
     })
@@ -216,7 +221,7 @@ module.exports = {
     };
 
 
-    fetch(`http://192.168.2.193:3000/meetings/cancel/${roomId}`, {
+    fetch(`http://192.168.3.38:3000/meetings/cancel/${roomId}`, {
       method : `delete`,
       headers : API_HEADERS,
       body : JSON.stringify(requestBody)
@@ -240,7 +245,7 @@ module.exports = {
       end : end
     };
 
-    fetch(`http://192.168.2.193:3000/meetings/regular/${roomId}`, {
+    fetch(`http://192.168.3.38:3000/meetings/regular/${roomId}`, {
       method : `post`,
       headers : API_HEADERS,
       body : JSON.stringify(requestBody)
@@ -259,9 +264,9 @@ module.exports = {
 
   restorePassword( user ,callback) {
 
-    let requestBody = user
+    let requestBody = user;
 
-    fetch(`http://192.168.2.193:3000/auth/restore`, {
+    fetch(`http://192.168.3.38:3000/auth/restore`, {
       method : `post`,
       headers : API_HEADERS,
       body : JSON.stringify(requestBody)
@@ -276,7 +281,4 @@ module.exports = {
         throw error;
       });
   },
-
-
-
 };

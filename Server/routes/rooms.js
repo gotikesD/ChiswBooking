@@ -6,7 +6,7 @@ const controller = require('../controllers/room');
 
 router.get(`/`, controller.getAll);
 
-router.post(`/:roomId`, controller.signForRoom);
+//router.post(`/:roomId`, controller.signForRoom);
 router.delete(`/:roomId`, controller.unFollow);
 
 module.exports = router;

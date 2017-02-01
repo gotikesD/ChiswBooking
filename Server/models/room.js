@@ -2,6 +2,8 @@
 const mongoose = require(`mongoose`);
 const Schema = mongoose.Schema;
 
+const eventEmitter = require(`../events`);
+
 const roomSchema = new Schema({
 
   name : {
@@ -28,13 +30,18 @@ const roomSchema = new Schema({
     type : Boolean,
     default : true
   },
+  bookingStatus: {
+    type: String,
+    enum: [`free`, `booked`],
+    default: `free`
+  },
   address : {
     type : String,
     validate : {
       validator : function (adr) {
         return adr.length > 10 && adr.length < 100
       },
-      message : `Invalid adвress`
+      message : `Invalid adress`
     },
     required : true
   },
@@ -51,9 +58,13 @@ const roomSchema = new Schema({
     default : false
   },
 
+}, { timestamps: true } );
+
+roomSchema.post('findOneAndUpdate', function(response) {
+  console.log('room update event fired');
+  eventEmitter.emit('roomUpdate', response);
 });
 
-
-const roomModel = mongoose.model(`roomModel`, roomSchema);
+const roomModel = mongoose.model(`room`, roomSchema);
 
 module.exports = roomModel;

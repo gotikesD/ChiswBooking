@@ -1,1 +1,1 @@
-export default window.navigator.userAgent = 'react-native';
+window.navigator.userAgent = 'react-native';

@@ -34,23 +34,23 @@ class InfoPage extends React.Component {
          </View>
          <View style={[{flexDirection : 'row', paddingTop : 10}, styles.infoUnderline]}>
            <Image style={[styles.infoNameStatus , {marginTop : 5, marginRight : 15}]} source={require('../../img/info-icons/location2x.png')}/>
-           <Text style={styles.circeFont}>{ROOM.address}</Text>
+           <Text style={[styles.circeFont, {fontSize : 22} ]}>{ROOM.address}</Text>
          </View>
          <View style={[{flexDirection : 'row', paddingTop : 10}, styles.infoUnderline]}>
            <Image style={[styles.infoNameStatus , {marginTop : 5, marginRight : 15}]} source={require('../../img/info-icons/participants2x.png')}/>
-           <Text style={styles.circeFont}>{ROOM.capacity}</Text>
+           <Text style={[styles.circeFont, {fontSize : 22} ]}>{ROOM.capacity}</Text>
          </View>
          <View style={[{flexDirection : 'row', paddingTop : 10}, styles.infoUnderline]}>
            <Image style={[styles.infoNameStatus , {marginTop : 5, marginRight : 15}]} source={ROOM.proector ? require('../../img/info-icons/true2x.png') : require('../../img/info-icons/false2x.png')}/>
-           <Text style={styles.circeFont}>Proector</Text>
+           <Text style={[styles.circeFont, {fontSize : 22} ]}>Proector</Text>
          </View>
          <View style={[{flexDirection : 'row', paddingTop : 15}, styles.infoUnderline]}>
            <Image style={[styles.infoNameStatus , {marginTop : 5, marginRight : 15}]} source={ROOM.whiteboard ? require('../../img/info-icons/true2x.png') : require('../../img/info-icons/false2x.png')}/>
-           <Text style={styles.circeFont}>Whiteboard</Text>
+           <Text style={[styles.circeFont, {fontSize : 22} ]}>Whiteboard</Text>
          </View>
          <View style={[{flexDirection : 'row', paddingTop : 10}, styles.infoUnderline]}>
            <Image style={[styles.infoNameStatus , {marginTop : 5, marginRight : 15}]} source={ROOM.pc ? require('../../img/info-icons/true2x.png') : require('../../img/info-icons/false2x.png')}/>
-           <Text style={styles.circeFont}>Pc/laptop</Text>
+           <Text style={[styles.circeFont, {fontSize : 22} ]}>Pc/laptop</Text>
          </View>
        </View>
 

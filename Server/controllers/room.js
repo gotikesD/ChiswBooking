@@ -7,9 +7,9 @@ const logger = require('../logs/config/');
 module.exports = {
 
   getAll: (req, res, next) => {
-    Room.find({})
+    Room.find()
         .then((rooms) => {
-        Meeting.find({})
+          Meeting.find({})
           .then((meetings) => {
             let currentTime = moment().format();
               rooms.forEach((r)=> {
@@ -24,7 +24,7 @@ module.exports = {
               });
 
               logger.info(`Request for all rooms`);
-              res.json(rooms)
+              res.json(rooms);
           })
       })
       .catch((error) => {
@@ -32,36 +32,38 @@ module.exports = {
       })
   },
 
-  signForRoom: (req, res, next) => {
+  signForRoom: (roomId, userId, socket) => {
 
-    let roomId = req.params.roomId;
-    let userId = req.body.userId;
+    //let roomId = req.params.roomId;
+    //let userId = req.body.userId;
 
     Room.findOneAndUpdate({_id: roomId}, {$addToSet: {users: userId}}, {new: true})
       .then((newRoom) => {
 
         logger.info(`User ${userId} now follow room ${roomId}`);
 
-        res.json(newRoom)
+        socket.emit('signForRoomSuccess', newRoom);
       })
       .catch((error) => {
-        next(error)
+        logger.error(error.message);
+        socket.emit('error', error.message);
       })
   } ,
 
 
-  unFollow: (req, res, next) => {
+  unFollow: (roomId, userId, socket) => {
 
-    let roomId = req.params.roomId;
-    let userId = req.body.userId;
+    //let roomId = req.params.roomId;
+    //let userId = req.body.userId;
 
     Room.findOneAndUpdate({_id: roomId}, {$pull: {users: userId}}, {new: true})
       .then((newRoom) => {
         logger.info(`User ${userId} stop follow room ${roomId}`);
-        res.json(newRoom)
+        socket.emit('unsignForRoomSuccess', newRoom);
       })
       .catch((error) => {
-        next(error)
+        logger.error(error.message);
+        socket.emit('error', error.message);
       })
   }
 };

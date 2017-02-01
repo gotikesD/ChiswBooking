@@ -6,7 +6,6 @@ import moment from 'moment'
 import config from '../../config/'
 import styles from '../../styles/'
 
-
 import LinearGradient from 'react-native-linear-gradient'
 
 class RoomHolder extends React.Component {
@@ -23,10 +22,10 @@ class RoomHolder extends React.Component {
     this.ds = new ListView.DataSource({
       rowHasChanged: (r1, r2) => r1 !== r2
     });
-
   }
 
-   singleRoom(room) {
+  singleRoom(room) {
+    this.props.socket.emit('singleRoomPressed', {room});
     this.props.navigator.push({
       name: 'SingleRoom',
       passProps: {
@@ -54,8 +53,8 @@ class RoomHolder extends React.Component {
           });
 
         });
-        this.setState({freeRooms: free})
-        this.setState({room: rooms});
+        this.setState({freeRooms: free, room: rooms})
+
         callback('done')
       })
     });
@@ -63,24 +62,39 @@ class RoomHolder extends React.Component {
 
 
 
-  signForRoom(roomId, client , own) {
+  signForRoom(roomId, own) {
 
+    this.props.socket.emit('followRoom', {roomId, own})
     let user = jwtDecode(this.props.token);
     let userId = user._doc._id;
+    //console.log('signing for room: ', roomId, " ", userId);
+    //this.props.socket.emit('signForRoom', { roomId, userId });
+    //this.props.socket.on('signForRoomSuccess', data => {
+    //  console.log('data from socket: ', data);
+    //  this.handleUpdate((info) => {
+    //    this.clearPressed();
+    //    alert('Now you follow this room');
+    //  });
+    //});
+
     if(!own) {
-      Api.signForRoom(roomId, userId, (newRoom) => {
+      this.props.socket.emit('signForRoom', {roomId, userId});
+      this.props.socket.on('signForRoomSuccess', data => {
         this.handleUpdate((info) => {
-          this.clearPressed()
-          alert('Now you follow this room')
+          this.clearPressed();
+          alert('Now you follow this room');
         });
-      })}
+      });
+    }
     else {
-      Api.unFollow(roomId, userId, (newRoom) => {
+      this.props.socket.emit('unsignForRoom', {roomId, userId});
+      this.props.socket.on('unsignForRoomSuccess', data => {
         this.handleUpdate((info) => {
-          this.clearPressed()
-          alert('Now you unfollow this room!')
+          this.clearPressed();
+          alert('Now you unfollow this room');
         });
-      })}
+      });
+    }
   }
 
   async getToken(callback) {
@@ -89,40 +103,41 @@ class RoomHolder extends React.Component {
   }
 
   componentWillMount() {
-    this.clearPressed()
+    this.props.socket.emit('roomHolder');
+
+    //this.clearPressed();
     this.handleUpdate((info) => {})
   }
 
-  componentDidMount() {
-    let self = this;
-
-    let update = setInterval(function() {
-      Api.allRooms((rooms) => {
-        self.getToken((token) => {
-          let user = jwtDecode(token);
-          let userId = user._doc._id;
-          let free = []
-          rooms.forEach((r)=> {
-            r.users.forEach((u) => {
-              if (u === userId) {
-                r.own = true;
-                r.pressed = false;
-                if (r.status) {
-                  free.push(r.name)
-                }
-              }
-            });
-
-          });
-          self.setState({freeRooms: free})
-          self.setState({room: rooms});
-        })
-      });
-    } ,config.UPDATE_TIME);
-
-    if(this.props.logout) { clearInterval(update)}
-  }
-
+  //componentDidMount() {
+  //  let self = this;
+  //
+  //  let update = setInterval(function() {
+  //    Api.allRooms((rooms) => {
+  //      self.getToken((token) => {
+  //        let user = jwtDecode(token);
+  //        let userId = user._doc._id;
+  //        let free = []
+  //        rooms.forEach((r)=> {
+  //          r.users.forEach((u) => {
+  //            if (u === userId) {
+  //              r.own = true;
+  //              r.pressed = false;
+  //              if (r.status) {
+  //                free.push(r.name)
+  //              }
+  //            }
+  //          });
+  //
+  //        });
+  //        self.setState({freeRooms: free})
+  //        self.setState({room: rooms});
+  //      })
+  //    });
+  //  } ,config.UPDATE_TIME);
+  //
+  //  if(this.props.logout) { clearInterval(update)}
+  //}
 
   addTest(room) {
     let token = this.props.token;
@@ -157,34 +172,32 @@ class RoomHolder extends React.Component {
   }
 
   roomPress(rowData) {
-    this.setState({pressedRoom : rowData})
-    this.setState({pressedAction : true})
 
-      let updateRoom = this.state.room.map((r) => {
-        if(rowData._id === r._id) {
-          r.pressed = true
-        }
-        return r;
-      })
+    let updateRoom = this.state.room.map((r) => {
+      if(rowData._id === r._id) {
+        r.pressed = true
+      }
+      return r;
+    });
 
-      this.setState({room : updateRoom})
-
+    this.setState({pressedRoom : rowData, pressedAction : true, room : updateRoom});
   }
 
   clearPressed() {
 
-    let room = this.state.pressedRoom
+    let room = this.state.pressedRoom;
     let updateRoom = this.state.room.map((r) => {
       if(room._id === r._id) {
         r.pressed = false
       }
       return r;
-    })
-    this.setState({room : updateRoom})
-    this.setState({pressedAction : false})
+    });
+    this.setState({room : updateRoom, pressedAction : false});
   }
 
   infoPage(room) {
+    console.log('info page pressed');
+    this.props.socket.emit('infoPagePressed', {room});
     this.props.navigator.push({
       name: 'RoomInfo',
       passProps: {
@@ -193,8 +206,8 @@ class RoomHolder extends React.Component {
     })
   }
 
-
   render() {
+
     return (
       <View>
 
@@ -217,7 +230,7 @@ class RoomHolder extends React.Component {
                     <Image source={require('../../img/followed_android2x.png')} style={rowData.own ? styles.ownRoom : [styles.ownRoom , {height : 0}]}/>
                     <Text style={!rowData.status ?
                              [styles.circeFont , styles.roomWord , styles.chessTextColor] : [styles.circeFont , styles.roomWord ]} >Room</Text>
-                    <View style={[styles.roomMainNumberHolder, {marginBottom : 10}]}>
+                    <View style={[styles.roomMainNumberHolder, {marginBottom : 5}]}>
                     <Text style={!rowData.status ?
                              [styles.roomMainNumber , styles.chessTextColor] : styles.roomMainNumber} >{rowData.name.split(' ')[1]}</Text>
                     </View>
@@ -232,22 +245,23 @@ class RoomHolder extends React.Component {
 
                   </LinearGradient>
                 </TouchableWithoutFeedback>
+
                 <TouchableWithoutFeedback onPress={this.roomPress.bind(this,rowData)} style={{marginLeft : 10}}>
-                <View style={rowData.pressed ? styles.hoverBlock : ''} >
-                <TouchableWithoutFeedback onPress={this.singleRoom.bind(this,rowData)}>
-                    <Image source={require('../../img/calendar2x.png')} style={rowData.pressed ? {marginLeft : 13 , width : 42 ,height: 32} : {height : 0}}/>
+                  <View style={rowData.pressed ? styles.hoverBlock : {height : 0}} >
+                    <TouchableWithoutFeedback onLongPress={this.singleRoom.bind(this,rowData)}>
+                      <Image source={require('../../img/newLong/calendar.png')} style={rowData.pressed ? styles.hoverImage : {width : 0}}/>
+                    </TouchableWithoutFeedback>
+                    <TouchableOpacity  onPress={this.signForRoom.bind(this, rowData._id, rowData.own)} >
+                      <Image source={rowData.own ? require('../../img/newLong/unfollow.png') : require('../../img/newLong/follow.png')}  style={rowData.pressed ? styles.hoverImage  : {width : 0}}/>
+                    </TouchableOpacity>
+                    <TouchableWithoutFeedback onPress={this.infoPage.bind(this,rowData)} >
+                    <Image  source={require('../../img/newLong/info.png')} style={rowData.pressed ? styles.hoverImage : {width : 0}}/>
+                    </TouchableWithoutFeedback>
+                  </View>
                 </TouchableWithoutFeedback>
-                <TouchableWithoutFeedback  onPress={this.signForRoom.bind(this,rowData._id, rowData.users , rowData.own)} style={{marginLeft : 8}}>
-                    <Image style={{width : 20}} source={rowData.own ? require('../../img/unfollow2x.png') : require('../../img/follow2x.png')}  style={rowData.pressed ? {marginLeft : 13 , width : 30 ,height: 32} : {height : 0}}/>
-                </TouchableWithoutFeedback>
-                <TouchableWithoutFeedback onPress={this.infoPage.bind(this,rowData)} >
-                    <Image style={{width : 20}} source={require('../../img/info2x.png')} style={rowData.pressed ? {marginLeft : 12 , width : 18 , height: 32} : {height : 0}}/>
-                </TouchableWithoutFeedback>
+                    <Text onPress={this.clearPressed.bind(this)}  style={this.state.pressedRoom._id != rowData._id && this.state.pressedAction ? styles.Blur : ''}>
+                    </Text>
                 </View>
-                </TouchableWithoutFeedback>
-                  <Text onPress={this.clearPressed.bind(this)}  style={this.state.pressedRoom._id != rowData._id && this.state.pressedAction ? styles.Blur : ''}>
-                 </Text>
-              </View>
 
             )
             }

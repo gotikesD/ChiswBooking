@@ -1817,3 +1817,1612 @@
 [2016-07-05 13:09:28.302] [INFO] booking - Request for all rooms
 [2016-07-05 13:09:32.385] [INFO] booking - Request for all rooms
 [2016-07-05 13:33:59.811] [INFO] booking - Request for all rooms
+[2016-07-27 10:42:16.598] [INFO] booking - App runs on  3000
+[2016-07-27 10:42:16.666] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-27 10:46:40.771] [INFO] booking - App runs on  3000
+[2016-07-27 10:46:40.875] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 11:28:19.395] [INFO] booking - App runs on  3000
+[2016-07-28 11:28:19.423] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 12:31:45.045] [ERROR] booking - User with mail test@ya.ru
+[2016-07-28 12:45:02.878] [INFO] booking - App runs on  3000
+[2016-07-28 12:45:02.903] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 12:45:09.029] [ERROR] booking - User with email test4@chisw.com already signed up!
+[2016-07-28 12:45:20.783] [ERROR] booking - User with mail test5@chisw.com
+[2016-07-28 13:03:38.967] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:03:46.122] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:05:15.754] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:06:11.404] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:06:47.662] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:09:35.695] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:09:36.473] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:09:37.282] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:13:23.768] [INFO] booking - Request for all rooms
+[2016-07-28 13:29:52.143] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:32:14.853] [INFO] booking - App runs on  3000
+[2016-07-28 13:32:14.876] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 13:32:15.727] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:32:16.855] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:32:18.040] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:32:18.883] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:32:59.981] [INFO] booking - App runs on  3000
+[2016-07-28 13:33:00.000] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 13:33:01.966] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:36:00.783] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:36:01.626] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:36:05.563] [INFO] booking - App runs on  3000
+[2016-07-28 13:36:05.592] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 13:36:07.379] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:36:09.344] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:36:10.951] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:36:41.565] [INFO] booking - App runs on  3000
+[2016-07-28 13:36:41.591] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 13:36:42.678] [ERROR] booking - User with current email not Found or bad password
+[2016-07-28 13:37:27.478] [INFO] booking - App runs on  3000
+[2016-07-28 13:37:27.498] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 13:37:29.028] [INFO] booking - User with test@chisw.com login
+[2016-07-28 14:05:15.639] [INFO] booking - User with test@chisw.com login
+[2016-07-28 14:10:02.436] [INFO] booking - User with test@chisw.com login
+[2016-07-28 14:11:05.071] [INFO] booking - User with test@chisw.com login
+[2016-07-28 14:12:03.690] [INFO] booking - Request for all rooms
+[2016-07-28 14:13:05.033] [INFO] booking - Request for all rooms
+[2016-07-28 14:29:52.456] [INFO] booking - Request for all rooms
+[2016-07-28 14:33:29.571] [INFO] booking - App runs on  3000
+[2016-07-28 14:33:29.596] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 14:35:26.596] [INFO] booking - User with test@chisw.com login
+[2016-07-28 14:35:28.036] [INFO] booking - Request for all rooms
+[2016-07-28 14:50:54.742] [INFO] booking - App runs on  3000
+[2016-07-28 14:50:54.807] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 15:01:26.614] [INFO] booking - User with test@chisw.com login
+[2016-07-28 15:01:28.329] [INFO] booking - Request for all rooms
+[2016-07-28 15:02:30.277] [INFO] booking - Request for all rooms
+[2016-07-28 15:03:30.255] [INFO] booking - Request for all rooms
+[2016-07-28 15:04:12.591] [INFO] booking - Request for all rooms
+[2016-07-28 15:04:30.291] [INFO] booking - Request for all rooms
+[2016-07-28 15:05:30.303] [INFO] booking - Request for all rooms
+[2016-07-28 15:06:30.297] [INFO] booking - Request for all rooms
+[2016-07-28 15:06:34.041] [INFO] booking - App runs on  3000
+[2016-07-28 15:06:34.060] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 15:06:38.702] [INFO] booking - Request for all rooms
+[2016-07-28 15:07:30.366] [INFO] booking - Request for all rooms
+[2016-07-28 15:08:30.386] [INFO] booking - App runs on  3000
+[2016-07-28 15:08:30.405] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 15:08:40.044] [INFO] booking - Request for all rooms
+[2016-07-28 15:09:07.636] [INFO] booking - Request for all rooms
+[2016-07-28 15:09:30.351] [INFO] booking - Request for all rooms
+[2016-07-28 15:10:30.431] [INFO] booking - Request for all rooms
+[2016-07-28 15:11:30.382] [INFO] booking - Request for all rooms
+[2016-07-28 15:11:46.772] [INFO] booking - App runs on  3000
+[2016-07-28 15:11:46.791] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 15:11:57.792] [INFO] booking - Request for all rooms
+[2016-07-28 15:12:30.428] [INFO] booking - Request for all rooms
+[2016-07-28 15:13:30.414] [INFO] booking - Request for all rooms
+[2016-07-28 15:14:30.475] [INFO] booking - Request for all rooms
+[2016-07-28 15:15:24.289] [INFO] booking - Request for all rooms
+[2016-07-28 15:15:30.465] [INFO] booking - Request for all rooms
+[2016-07-28 15:16:30.473] [INFO] booking - Request for all rooms
+[2016-07-28 15:17:30.481] [INFO] booking - Request for all rooms
+[2016-07-28 15:17:46.811] [INFO] booking - App runs on  3000
+[2016-07-28 15:17:46.830] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 15:18:00.980] [INFO] booking - Request for all rooms
+[2016-07-28 15:18:30.560] [INFO] booking - Request for all rooms
+[2016-07-28 15:19:16.876] [INFO] booking - App runs on  3000
+[2016-07-28 15:19:16.895] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 15:19:30.564] [INFO] booking - Request for all rooms
+[2016-07-28 15:19:35.931] [INFO] booking - Request for all rooms
+[2016-07-28 15:20:22.747] [INFO] booking - App runs on  3000
+[2016-07-28 15:20:22.766] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 15:20:26.667] [INFO] booking - Request for all rooms
+[2016-07-28 15:21:39.018] [INFO] booking - Request for all rooms
+[2016-07-28 15:21:39.782] [INFO] booking - Request for all rooms
+[2016-07-28 15:21:40.153] [INFO] booking - Request for all rooms
+[2016-07-28 15:21:40.379] [INFO] booking - Request for all rooms
+[2016-07-28 15:21:40.544] [INFO] booking - Request for all rooms
+[2016-07-28 15:24:13.884] [INFO] booking - App runs on  3000
+[2016-07-28 15:24:13.903] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-07-28 15:24:31.683] [INFO] booking - Request for all rooms
+[2016-07-28 15:40:01.131] [INFO] booking - Request for all rooms
+[2016-07-28 15:43:24.451] [INFO] booking - Request for all rooms
+[2016-07-28 15:43:36.141] [INFO] booking - User with the test@chisw.com past token check
+[2016-07-28 15:43:57.445] [INFO] booking - Request for all rooms
+[2016-07-28 15:44:26.170] [INFO] booking - Request for all rooms
+[2016-08-01 12:34:50.619] [INFO] booking - App runs on  3000
+[2016-08-01 12:34:50.712] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 12:51:56.391] [ERROR] booking - User with current email not Found or bad password
+[2016-08-01 12:53:05.416] [INFO] booking - Request for all rooms
+[2016-08-01 12:55:59.056] [INFO] booking - App runs on  3000
+[2016-08-01 12:55:59.078] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 12:56:29.797] [INFO] booking - User with test4@chisw.com login
+[2016-08-01 13:05:07.909] [INFO] booking - User with test4@chisw.com login
+[2016-08-01 13:05:55.090] [INFO] booking - Request for all rooms
+[2016-08-01 13:06:56.973] [INFO] booking - Request for all rooms
+[2016-08-01 13:07:57.069] [INFO] booking - Request for all rooms
+[2016-08-01 13:08:56.964] [INFO] booking - Request for all rooms
+[2016-08-01 13:09:56.970] [INFO] booking - Request for all rooms
+[2016-08-01 13:10:56.982] [INFO] booking - Request for all rooms
+[2016-08-01 13:11:57.003] [INFO] booking - Request for all rooms
+[2016-08-01 13:12:57.011] [INFO] booking - Request for all rooms
+[2016-08-01 13:13:57.088] [INFO] booking - Request for all rooms
+[2016-08-01 13:14:57.072] [INFO] booking - Request for all rooms
+[2016-08-01 13:15:57.069] [INFO] booking - Request for all rooms
+[2016-08-01 13:16:57.126] [INFO] booking - Request for all rooms
+[2016-08-01 13:17:57.134] [INFO] booking - Request for all rooms
+[2016-08-01 13:18:17.158] [INFO] booking - App runs on  3000
+[2016-08-01 13:18:17.182] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 13:18:30.396] [INFO] booking - Request for all rooms
+[2016-08-01 13:18:39.984] [INFO] booking - User 5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 13:18:57.423] [INFO] booking - Request for all rooms
+[2016-08-01 13:19:32.148] [INFO] booking - Request for all rooms
+[2016-08-01 13:20:04.291] [INFO] booking - Request for all rooms
+[2016-08-01 13:20:29.830] [INFO] booking - User 5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-01 13:20:31.413] [INFO] booking - Request for all rooms
+[2016-08-01 13:21:06.054] [INFO] booking - Request for all rooms
+[2016-08-01 13:21:26.384] [INFO] booking - Request for all rooms
+[2016-08-01 13:21:30.581] [INFO] booking - User 5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-01 13:21:31.024] [INFO] booking - Request for all rooms
+[2016-08-01 13:22:28.361] [INFO] booking - Request for all rooms
+[2016-08-01 13:23:28.324] [INFO] booking - Request for all rooms
+[2016-08-01 13:24:28.342] [INFO] booking - Request for all rooms
+[2016-08-01 13:25:28.357] [INFO] booking - Request for all rooms
+[2016-08-01 13:26:28.369] [INFO] booking - Request for all rooms
+[2016-08-01 13:29:56.458] [INFO] booking - App runs on  3000
+[2016-08-01 13:29:56.495] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 13:33:30.667] [INFO] booking - Request for all rooms
+[2016-08-01 13:33:36.597] [INFO] booking - User 5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 13:33:57.028] [INFO] booking - Request for all rooms
+[2016-08-01 13:34:31.923] [INFO] booking - Request for all rooms
+[2016-08-01 13:35:31.892] [INFO] booking - Request for all rooms
+[2016-08-01 13:36:31.900] [INFO] booking - Request for all rooms
+[2016-08-01 13:37:31.913] [INFO] booking - Request for all rooms
+[2016-08-01 13:38:14.970] [INFO] booking - App runs on  3000
+[2016-08-01 13:38:15.003] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 13:38:23.532] [INFO] booking - Request for all rooms
+[2016-08-01 13:38:29.918] [INFO] booking - Request for all rooms
+[2016-08-01 13:38:45.652] [INFO] booking - User 5799d3fb3adf64a2ec8c9322 stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 13:38:56.472] [INFO] booking - Request for all rooms
+[2016-08-01 13:39:31.291] [INFO] booking - Request for all rooms
+[2016-08-01 13:40:31.263] [INFO] booking - Request for all rooms
+[2016-08-01 13:41:31.279] [INFO] booking - Request for all rooms
+[2016-08-01 13:42:31.296] [INFO] booking - Request for all rooms
+[2016-08-01 14:17:28.817] [INFO] booking - App runs on  3000
+[2016-08-01 14:17:28.837] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:17:42.798] [INFO] booking - App runs on  3000
+[2016-08-01 14:17:42.819] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:17:50.075] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:17:50.164] [INFO] booking - Request for all rooms
+[2016-08-01 14:18:09.030] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:18:09.048] [INFO] booking - Request for all rooms
+[2016-08-01 14:18:43.470] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:18:43.487] [INFO] booking - Request for all rooms
+[2016-08-01 14:18:44.376] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:18:48.544] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:18:48.545] [INFO] booking - Request for all rooms
+[2016-08-01 14:19:49.875] [INFO] booking - Request for all rooms
+[2016-08-01 14:19:56.485] [INFO] booking - Request for all rooms
+[2016-08-01 14:19:56.501] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:20:10.608] [INFO] booking - Request for all rooms
+[2016-08-01 14:20:10.614] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:21:15.081] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:21:15.103] [INFO] booking - Request for all rooms
+[2016-08-01 14:22:16.480] [INFO] booking - Request for all rooms
+[2016-08-01 14:22:16.885] [INFO] booking - User with test@chisw.com login
+[2016-08-01 14:22:18.262] [INFO] booking - Request for all rooms
+[2016-08-01 14:22:18.274] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:23:16.502] [INFO] booking - Request for all rooms
+[2016-08-01 14:23:19.652] [INFO] booking - Request for all rooms
+[2016-08-01 14:24:16.504] [INFO] booking - Request for all rooms
+[2016-08-01 14:24:18.261] [INFO] booking - Request for all rooms
+[2016-08-01 14:24:19.673] [INFO] booking - Request for all rooms
+[2016-08-01 14:24:55.729] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:24:55.730] [INFO] booking - Request for all rooms
+[2016-08-01 14:25:57.146] [INFO] booking - Request for all rooms
+[2016-08-01 14:26:26.755] [INFO] booking - App runs on  3000
+[2016-08-01 14:26:26.775] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:26:28.330] [INFO] booking - Connected to socket [object Object]
+[2016-08-01 14:26:50.171] [INFO] booking - App runs on  3000
+[2016-08-01 14:26:50.193] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:26:52.203] [INFO] booking - Connected to socket /#7oNh5EosArpg2RY8AAAA
+[2016-08-01 14:26:57.237] [INFO] booking - Request for all rooms
+[2016-08-01 14:27:57.291] [INFO] booking - Request for all rooms
+[2016-08-01 14:28:32.099] [INFO] booking - Request for all rooms
+[2016-08-01 14:28:48.276] [INFO] booking - Request for all rooms
+[2016-08-01 14:29:21.114] [INFO] booking - App runs on  3000
+[2016-08-01 14:29:21.133] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:29:23.320] [INFO] booking - Request for all rooms
+[2016-08-01 14:29:42.642] [INFO] booking - App runs on  3000
+[2016-08-01 14:29:42.661] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:29:44.668] [INFO] booking - Request for all rooms
+[2016-08-01 14:30:20.113] [INFO] booking - App runs on  3000
+[2016-08-01 14:30:20.132] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:30:34.874] [INFO] booking - App runs on  3000
+[2016-08-01 14:30:34.894] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:30:36.593] [INFO] booking - Request for all rooms
+[2016-08-01 14:42:39.386] [INFO] booking - Request for all rooms
+[2016-08-01 14:42:44.708] [INFO] booking - App runs on  3000
+[2016-08-01 14:42:44.728] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:42:46.353] [INFO] booking - Request for all rooms
+[2016-08-01 14:45:22.577] [INFO] booking - Connected to socket /#WxSyj7R7vVKUl4gJAAAA
+[2016-08-01 14:45:23.217] [INFO] booking - Request for all rooms
+[2016-08-01 14:46:24.055] [INFO] booking - Request for all rooms
+[2016-08-01 14:47:24.061] [INFO] booking - Request for all rooms
+[2016-08-01 14:47:49.855] [INFO] booking - App runs on  3000
+[2016-08-01 14:47:49.981] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:47:52.714] [INFO] booking - Connected to socket /#C7FZddqrhZbVGQpAAAAA
+[2016-08-01 14:48:24.064] [INFO] booking - Request for all rooms
+[2016-08-01 14:48:51.110] [INFO] booking - Request for all rooms
+[2016-08-01 14:48:51.155] [INFO] booking - Connected to socket /#SY0Iv68IBlwbbVT9AAAB
+[2016-08-01 14:49:52.582] [INFO] booking - Request for all rooms
+[2016-08-01 14:53:38.361] [INFO] booking - App runs on  3000
+[2016-08-01 14:53:38.382] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:53:57.734] [INFO] booking - Connected to socket /#7TlCX6yT89V1wIFKAAAA
+[2016-08-01 14:53:57.815] [INFO] booking - Request for all rooms
+[2016-08-01 14:54:49.890] [INFO] booking - App runs on  3000
+[2016-08-01 14:54:49.917] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:54:51.516] [INFO] booking - Connected to socket /#KImOQ7-xsCT9balLAAAA
+[2016-08-01 14:54:55.408] [INFO] booking - Connected to socket /#SO_49Xzj_d9akITVAAAB
+[2016-08-01 14:54:55.585] [INFO] booking - Request for all rooms
+[2016-08-01 14:55:00.975] [INFO] booking - User  now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 14:56:34.220] [INFO] booking - App runs on  3000
+[2016-08-01 14:56:34.240] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 14:56:38.439] [INFO] booking - Connected to socket /#_ElCr9UF2qdCpHDEAAAA
+[2016-08-01 14:56:38.540] [INFO] booking - User  now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 15:00:44.265] [INFO] booking - App runs on  3000
+[2016-08-01 15:00:44.285] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 15:00:47.766] [INFO] booking - Connected to socket /#ZU7fl1hUuFmcYrPwAAAA
+[2016-08-01 15:00:55.086] [INFO] booking - Connected to socket /#3zHMd6UZnL717lCbAAAB
+[2016-08-01 15:00:55.156] [INFO] booking - Request for all rooms
+[2016-08-01 15:01:12.882] [INFO] booking - User 5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-01 15:01:56.514] [INFO] booking - Request for all rooms
+[2016-08-01 15:02:56.559] [INFO] booking - Request for all rooms
+[2016-08-01 15:03:56.546] [INFO] booking - Request for all rooms
+[2016-08-01 15:04:56.531] [INFO] booking - Request for all rooms
+[2016-08-01 15:09:55.124] [INFO] booking - Connected to socket /#g24cr15_34h_riz6AAAC
+[2016-08-01 15:09:55.140] [INFO] booking - Request for all rooms
+[2016-08-01 15:10:58.921] [INFO] booking - Request for all rooms
+[2016-08-01 15:12:04.790] [INFO] booking - Request for all rooms
+[2016-08-01 15:12:57.398] [INFO] booking - Request for all rooms
+[2016-08-01 15:13:26.360] [INFO] booking - Connected to socket /#0G__ZslISJpTrlhzAAAD
+[2016-08-01 15:13:26.407] [INFO] booking - Request for all rooms
+[2016-08-01 16:24:50.219] [INFO] booking - App runs on  3000
+[2016-08-01 16:24:50.272] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 16:30:56.475] [INFO] booking - App runs on  3000
+[2016-08-01 16:30:56.509] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 16:38:35.781] [INFO] booking - User with test3@chisw.com login
+[2016-08-01 16:38:37.962] [INFO] booking - Request for all rooms
+[2016-08-01 16:38:38.019] [INFO] booking - Connected to socket /#sF_E8LUsYT0uGx_UAAAA
+[2016-08-01 16:40:02.016] [INFO] booking - App runs on  3000
+[2016-08-01 16:40:02.043] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 16:40:29.664] [INFO] booking - Connected to socket /#LyxV2GnPHlbpdI1PAAAA
+[2016-08-01 16:40:29.779] [INFO] booking - Request for all rooms
+[2016-08-01 16:40:57.419] [INFO] booking - User 5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 16:41:31.786] [INFO] booking - Request for all rooms
+[2016-08-01 16:42:31.784] [INFO] booking - Request for all rooms
+[2016-08-01 16:43:31.759] [INFO] booking - Request for all rooms
+[2016-08-01 16:46:10.162] [INFO] booking - Connected to socket /#ENfKMYSSiMNxuazCAAAB
+[2016-08-01 16:46:10.190] [INFO] booking - Request for all rooms
+[2016-08-01 16:46:15.546] [INFO] booking - User 5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 16:46:36.057] [INFO] booking - User 5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 16:47:11.923] [INFO] booking - Request for all rooms
+[2016-08-01 16:48:11.929] [INFO] booking - Request for all rooms
+[2016-08-01 16:49:11.955] [INFO] booking - Request for all rooms
+[2016-08-01 16:50:13.701] [INFO] booking - Connected to socket /#R1M-Olcf7A_0R61HAAAC
+[2016-08-01 16:50:13.709] [INFO] booking - Request for all rooms
+[2016-08-01 16:50:18.109] [INFO] booking - User 5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 16:50:18.139] [INFO] booking - Request for all rooms
+[2016-08-01 16:50:45.984] [INFO] booking - User 5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 16:50:46.022] [INFO] booking - Request for all rooms
+[2016-08-01 16:50:46.037] [INFO] booking - Request for all rooms
+[2016-08-01 16:51:15.433] [INFO] booking - Request for all rooms
+[2016-08-01 16:52:11.882] [INFO] booking - App runs on  3000
+[2016-08-01 16:52:11.907] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 16:52:16.621] [INFO] booking - Connected to socket /#6g4RvQo1LHYhqAM5AAAA
+[2016-08-01 16:52:16.778] [INFO] booking - Request for all rooms
+[2016-08-01 16:52:21.366] [INFO] booking - User 5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 16:52:21.391] [INFO] booking - Request for all rooms
+[2016-08-01 16:53:12.904] [INFO] booking - App runs on  3000
+[2016-08-01 16:53:12.926] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 16:53:14.334] [INFO] booking - Connected to socket /#sV90SZq8DFJ_0qpIAAAA
+[2016-08-01 16:53:18.322] [INFO] booking - Request for all rooms
+[2016-08-01 16:53:21.917] [INFO] booking - User 5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 16:53:21.987] [INFO] booking - Request for all rooms
+[2016-08-01 16:53:21.995] [INFO] booking - Request for all rooms
+[2016-08-01 16:53:36.962] [INFO] booking - User with the test3@chisw.com past token check
+[2016-08-01 16:53:36.993] [WARN] booking - There are no meetings to user 579f1c8b6c4d5a858014bcbe to check a the time 2016-08-01T16:53:36+03:00
+[2016-08-01 16:53:37.039] [INFO] booking - User test3@chisw.com add new meeting from 2016-08-01T16:53:37+03:00 to 2016-08-01T17:03:37+03:00
+[2016-08-01 16:53:41.097] [INFO] booking - Request for all rooms
+[2016-08-01 16:54:15.967] [INFO] booking - Connected to socket /#U4YwKL0dWsfBBcn4AAAB
+[2016-08-01 16:54:15.973] [INFO] booking - Request for all rooms
+[2016-08-01 16:54:24.109] [INFO] booking - User  now follow room 5799f953d68d3ffdf5c2c4a7
+[2016-08-01 16:54:24.133] [INFO] booking - Request for all rooms
+[2016-08-01 16:55:25.060] [INFO] booking - Connected to socket /#dgoCggfuf0pUxLO8AAAC
+[2016-08-01 16:55:25.132] [INFO] booking - Request for all rooms
+[2016-08-01 16:55:29.295] [INFO] booking - User with the test3@chisw.com past token check
+[2016-08-01 16:55:29.301] [INFO] booking - User with ID 579f1c8b6c4d5a858014bcbe delete his current meeting from main screen
+[2016-08-01 16:55:29.767] [INFO] booking - Request for all rooms
+[2016-08-01 16:55:37.137] [INFO] booking - User  now follow room 5799f953d68d3ffdf5c2c4a7
+[2016-08-01 16:55:37.155] [INFO] booking - Request for all rooms
+[2016-08-01 16:56:26.552] [INFO] booking - Request for all rooms
+[2016-08-01 16:56:40.612] [INFO] booking - User 5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 16:56:40.697] [INFO] booking - Request for all rooms
+[2016-08-01 16:56:40.710] [INFO] booking - Request for all rooms
+[2016-08-01 17:22:58.684] [INFO] booking - Connected to socket /#De-6LpDsXA9iR3OgAAAD
+[2016-08-01 17:22:58.724] [INFO] booking - Request for all rooms
+[2016-08-01 17:23:32.342] [INFO] booking - User 5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322,5799d3fb3adf64a2ec8c9322 now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 17:23:32.429] [INFO] booking - Request for all rooms
+[2016-08-01 17:24:00.094] [INFO] booking - Request for all rooms
+[2016-08-01 17:29:00.548] [INFO] booking - Connected to socket /#Yr15Njwq3xHB-mSXAAAE
+[2016-08-01 17:29:00.597] [INFO] booking - Request for all rooms
+[2016-08-01 17:29:12.359] [INFO] booking - User undefined now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 17:29:12.452] [INFO] booking - Request for all rooms
+[2016-08-01 17:30:01.902] [INFO] booking - Request for all rooms
+[2016-08-01 17:31:01.964] [INFO] booking - Request for all rooms
+[2016-08-01 17:32:11.694] [INFO] booking - App runs on  3000
+[2016-08-01 17:32:11.728] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 17:32:13.303] [INFO] booking - Connected to socket /#swfi6rIxzTf9Njv_AAAA
+[2016-08-01 17:32:13.440] [INFO] booking - Request for all rooms
+[2016-08-01 17:32:18.251] [ERROR] booking - client is not defined
+[2016-08-01 17:32:42.106] [INFO] booking - App runs on  3000
+[2016-08-01 17:32:42.125] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 17:32:47.267] [INFO] booking - Connected to socket /#SWyeptPUTVW-B2ZpAAAA
+[2016-08-01 17:32:47.327] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 17:32:47.418] [INFO] booking - Request for all rooms
+[2016-08-01 17:32:47.434] [INFO] booking - Request for all rooms
+[2016-08-01 17:33:14.641] [INFO] booking - Request for all rooms
+[2016-08-01 17:33:17.954] [INFO] booking - App runs on  3000
+[2016-08-01 17:33:17.974] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 17:33:18.870] [INFO] booking - Connected to socket /#8niH7X6mt-heBjyOAAAA
+[2016-08-01 17:33:23.581] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 17:33:23.639] [INFO] booking - Request for all rooms
+[2016-08-01 17:33:23.671] [INFO] booking - Request for all rooms
+[2016-08-01 17:33:23.675] [INFO] booking - Request for all rooms
+[2016-08-01 17:33:54.173] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 17:33:54.244] [INFO] booking - Request for all rooms
+[2016-08-01 17:33:54.258] [INFO] booking - Request for all rooms
+[2016-08-01 17:33:54.260] [INFO] booking - Request for all rooms
+[2016-08-01 17:33:54.264] [INFO] booking - Request for all rooms
+[2016-08-01 17:34:14.620] [INFO] booking - Request for all rooms
+[2016-08-01 17:35:14.657] [INFO] booking - Request for all rooms
+[2016-08-01 17:35:58.889] [INFO] booking - App runs on  3000
+[2016-08-01 17:35:58.910] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 17:36:00.469] [INFO] booking - Connected to socket /#_Ebq6r6qE6xGkiibAAAA
+[2016-08-01 17:36:01.608] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a5
+[2016-08-01 17:36:01.742] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:01.756] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:01.760] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:01.768] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:01.775] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:08.827] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a6
+[2016-08-01 17:36:08.904] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:08.942] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:08.944] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:08.946] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:08.950] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:08.956] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:14.669] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:18.860] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a7
+[2016-08-01 17:36:18.927] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:18.996] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:18.998] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:19.000] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:19.005] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:19.022] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:19.032] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:27.991] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a8
+[2016-08-01 17:36:28.067] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:28.070] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:28.072] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:28.075] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:28.081] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:28.086] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:28.095] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:28.100] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.701] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:36:56.759] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.793] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.796] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.800] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.803] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.833] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.853] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.856] [INFO] booking - Request for all rooms
+[2016-08-01 17:36:56.859] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.243] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-01 17:37:07.335] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.370] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.416] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.424] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.429] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.448] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.488] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.492] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.494] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:07.501] [INFO] booking - Request for all rooms
+[2016-08-01 17:37:15.760] [INFO] booking - Request for all rooms
+[2016-08-01 17:38:14.680] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:04.890] [INFO] booking - App runs on  3000
+[2016-08-01 17:39:04.915] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 17:39:06.133] [INFO] booking - Connected to socket /#6EVnUJ3jPCmY8F18AAAA
+[2016-08-01 17:39:09.736] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:39:09.904] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:09.924] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:09.939] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:09.940] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:09.943] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:09.976] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:09.979] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:09.994] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:09.999] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:10.000] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:10.031] [INFO] booking - Request for all rooms
+[2016-08-01 17:39:19.033] [INFO] booking - Request for all rooms
+[2016-08-01 17:40:14.728] [INFO] booking - Request for all rooms
+[2016-08-01 17:41:14.745] [INFO] booking - Request for all rooms
+[2016-08-01 17:42:14.753] [INFO] booking - Request for all rooms
+[2016-08-01 17:42:50.792] [INFO] booking - Request for all rooms
+[2016-08-01 17:42:50.829] [INFO] booking - Connected to socket /#qiRhzs3tGIeQpj9sAAAB
+[2016-08-01 17:45:34.896] [INFO] booking - User with test3@chisw.com login
+[2016-08-01 17:45:36.645] [INFO] booking - Request for all rooms
+[2016-08-01 17:45:36.664] [INFO] booking - Connected to socket /#iEX4qWzVjqaP0cTIAAAC
+[2016-08-01 17:46:54.106] [INFO] booking - Connected to socket /#ypFFe3oxotSIgkWwAAAD
+[2016-08-01 17:46:54.182] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:04.862] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-01 17:47:04.894] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:21.358] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-01 17:47:21.406] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:21.442] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:30.625] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-01 17:47:30.670] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:30.673] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:30.692] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:52.881] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-01 17:47:52.961] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:52.968] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:52.975] [INFO] booking - Request for all rooms
+[2016-08-01 17:47:52.977] [INFO] booking - Request for all rooms
+[2016-08-01 17:55:39.947] [INFO] booking - App runs on  3000
+[2016-08-01 17:55:39.969] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-01 17:55:41.434] [INFO] booking - Connected to socket /#Ife2Tx5LiwBe7l3lAAAA
+[2016-08-01 17:55:54.065] [INFO] booking - Connected to socket /#Gf1UUGj8KoLYN7zHAAAB
+[2016-08-01 17:55:54.161] [INFO] booking - Request for all rooms
+[2016-08-01 17:55:58.838] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:55:58.840] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:55:58.885] [INFO] booking - Request for all rooms
+[2016-08-01 17:55:58.918] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:06.354] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:56:06.397] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:56:06.438] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:06.444] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:06.446] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:06.450] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:06.461] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:06.484] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:17.993] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:56:18.005] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:56:18.053] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:18.090] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:18.095] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:18.105] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:18.112] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:18.122] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:52.830] [INFO] booking - Request for all rooms
+[2016-08-01 17:56:52.851] [INFO] booking - Connected to socket /#ly6vHHO2Higzx2LvAAAC
+[2016-08-01 17:57:04.755] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:57:04.830] [INFO] booking - Request for all rooms
+[2016-08-01 17:57:20.570] [INFO] booking - Connected to socket /#DEAnWMyydS3Z5OTBAAAD
+[2016-08-01 17:57:20.576] [INFO] booking - Request for all rooms
+[2016-08-01 17:57:26.688] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:57:26.717] [INFO] booking - Request for all rooms
+[2016-08-01 17:57:37.911] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:57:37.934] [INFO] booking - Request for all rooms
+[2016-08-01 17:58:14.538] [INFO] booking - Request for all rooms
+[2016-08-01 17:58:14.550] [INFO] booking - Connected to socket /#knHBJh2Rhna_vSftAAAE
+[2016-08-01 17:58:22.995] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:58:23.028] [INFO] booking - Request for all rooms
+[2016-08-01 17:58:37.632] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:58:37.673] [INFO] booking - Request for all rooms
+[2016-08-01 17:58:49.759] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:58:49.788] [INFO] booking - Request for all rooms
+[2016-08-01 17:58:49.840] [INFO] booking - Request for all rooms
+[2016-08-01 17:58:59.655] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 17:58:59.697] [INFO] booking - Request for all rooms
+[2016-08-01 17:58:59.711] [INFO] booking - Request for all rooms
+[2016-08-01 18:00:14.274] [INFO] booking - Connected to socket /#GZmUEolC0DOozzp2AAAF
+[2016-08-01 18:00:14.279] [INFO] booking - Request for all rooms
+[2016-08-01 18:00:25.841] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 18:00:25.875] [INFO] booking - Request for all rooms
+[2016-08-01 18:01:09.690] [INFO] booking - Request for all rooms
+[2016-08-01 18:01:09.706] [INFO] booking - Connected to socket /#v4jhzJu7ikeu9lTjAAAG
+[2016-08-01 18:01:44.966] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 18:01:44.991] [INFO] booking - Request for all rooms
+[2016-08-01 18:02:10.676] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 18:02:10.708] [INFO] booking - Request for all rooms
+[2016-08-01 18:03:25.926] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-01 18:03:25.962] [INFO] booking - Request for all rooms
+[2016-08-01 18:03:25.980] [INFO] booking - Request for all rooms
+[2016-08-01 18:08:53.800] [INFO] booking - Connected to socket /#G46fxvmlExNDDgW8AAAH
+[2016-08-01 18:08:53.922] [INFO] booking - Request for all rooms
+[2016-08-01 18:08:58.755] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-01 18:08:58.778] [INFO] booking - Request for all rooms
+[2016-08-01 18:09:26.965] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 18:09:26.994] [INFO] booking - Request for all rooms
+[2016-08-01 18:09:27.014] [INFO] booking - Request for all rooms
+[2016-08-01 18:09:34.001] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-01 18:09:34.032] [INFO] booking - Request for all rooms
+[2016-08-01 18:09:52.430] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-01 18:09:52.471] [INFO] booking - Request for all rooms
+[2016-08-01 18:09:52.473] [INFO] booking - Request for all rooms
+[2016-08-01 18:09:57.482] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-01 18:09:57.534] [INFO] booking - Request for all rooms
+[2016-08-01 18:09:57.549] [INFO] booking - Request for all rooms
+[2016-08-01 18:09:57.552] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:04.730] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 18:10:04.765] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:04.767] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:04.768] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:04.775] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:33.484] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-01 18:10:33.540] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:33.561] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:33.565] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:40.546] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-01 18:10:40.593] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:40.599] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:40.605] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:40.607] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:45.971] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-01 18:10:46.021] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:46.049] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:46.077] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:46.082] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:46.102] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:56.941] [INFO] booking - Request for all rooms
+[2016-08-01 18:10:56.957] [INFO] booking - Connected to socket /#sy0BeQFHJZLQ34uzAAAI
+[2016-08-02 10:43:25.535] [INFO] booking - App runs on  3000
+[2016-08-02 10:43:26.097] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 10:46:42.202] [INFO] booking - Connected to socket /#hs3DVws0JQADPp7TAAAA
+[2016-08-02 10:47:33.587] [INFO] booking - App runs on  3000
+[2016-08-02 10:47:33.611] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 10:47:39.379] [INFO] booking - Connected to socket /#elRY5yS8oLSxoOxxAAAA
+[2016-08-02 10:55:02.316] [INFO] booking - App runs on  3000
+[2016-08-02 10:55:02.336] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 10:55:05.706] [INFO] booking - Connected to socket /#qD03ydO14KLftCyMAAAA
+[2016-08-02 10:55:50.463] [INFO] booking - App runs on  3000
+[2016-08-02 10:55:50.483] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 10:55:50.799] [INFO] booking - Connected to socket /#EHgrT974OkucxDGiAAAA
+[2016-08-02 10:56:33.524] [INFO] booking - Connected to socket /#cnkYcYgCvNfMm0-BAAAB
+[2016-08-02 10:56:34.385] [INFO] booking - Request for all rooms
+[2016-08-02 10:56:44.145] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 10:56:44.176] [INFO] booking - Request for all rooms
+[2016-08-02 10:57:07.442] [INFO] booking - Connected to socket /#4wJJw4QW_zUXXkIIAAAC
+[2016-08-02 10:57:07.445] [INFO] booking - Request for all rooms
+[2016-08-02 10:57:11.062] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 10:57:11.089] [INFO] booking - Request for all rooms
+[2016-08-02 10:58:08.027] [INFO] booking - App runs on  3000
+[2016-08-02 10:58:08.047] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 10:58:10.754] [INFO] booking - Connected to socket /#z80mrn1vH9NEFtKxAAAA
+[2016-08-02 10:58:15.422] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 10:58:15.466] [INFO] booking - Request for all rooms
+[2016-08-02 10:59:04.063] [INFO] booking - App runs on  3000
+[2016-08-02 10:59:04.084] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 10:59:06.632] [INFO] booking - Connected to socket /#ZxYKq_5zKCcfFnhOAAAA
+[2016-08-02 10:59:11.172] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-02 10:59:11.316] [INFO] booking - Request for all rooms
+[2016-08-02 10:59:11.340] [INFO] booking - Request for all rooms
+[2016-08-02 11:01:14.595] [INFO] booking - App runs on  3000
+[2016-08-02 11:01:14.615] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 11:01:17.386] [INFO] booking - Connected to socket /#We-osQHKedZIcFBeAAAA
+[2016-08-02 11:01:29.267] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-02 11:01:29.372] [INFO] booking - Request for all rooms
+[2016-08-02 11:01:29.387] [INFO] booking - Request for all rooms
+[2016-08-02 11:02:57.505] [INFO] booking - App runs on  3000
+[2016-08-02 11:02:57.527] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 11:03:00.266] [INFO] booking - Connected to socket /#NVZo0h0Obmy7sB6EAAAA
+[2016-08-02 11:04:48.189] [INFO] booking - Connected to socket /#5Es29TjypG_cUqSxAAAB
+[2016-08-02 11:04:48.291] [INFO] booking - Request for all rooms
+[2016-08-02 11:04:56.110] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 11:04:56.131] [INFO] booking - Request for all rooms
+[2016-08-02 11:30:02.019] [INFO] booking - App runs on  3000
+[2016-08-02 11:30:02.040] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 11:31:09.430] [INFO] booking - Connected to socket /#GhWYaWOuW4ZItSXPAAAA
+[2016-08-02 11:31:09.540] [INFO] booking - Request for all rooms
+[2016-08-02 11:31:19.246] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 11:31:19.270] [INFO] booking - Request for all rooms
+[2016-08-02 11:32:51.145] [INFO] booking - App runs on  3000
+[2016-08-02 11:32:51.176] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 11:34:24.591] [INFO] booking - App runs on  3000
+[2016-08-02 11:34:24.610] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 11:35:47.027] [INFO] booking - Connected to socket /#V1yt_H4mIpekFOESAAAA
+[2016-08-02 11:35:47.158] [INFO] booking - Request for all rooms
+[2016-08-02 11:36:30.839] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 11:36:30.865] [INFO] booking - Request for all rooms
+[2016-08-02 11:45:13.600] [INFO] booking - Connected to socket /#gtUQE-a5SouiTaqhAAAB
+[2016-08-02 11:45:13.663] [INFO] booking - Request for all rooms
+[2016-08-02 11:47:23.863] [INFO] booking - User with the test3@chisw.com past token check
+[2016-08-02 12:23:01.812] [INFO] booking - Connected to socket /#JgVjscJGOu4WC_YsAAAC
+[2016-08-02 12:23:01.843] [INFO] booking - Request for all rooms
+[2016-08-02 12:23:07.822] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 12:23:07.846] [INFO] booking - Request for all rooms
+[2016-08-02 12:23:34.382] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 12:23:34.421] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:31.222] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.441] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.510] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.511] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.525] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.891] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.893] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.894] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.903] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:31.916] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:21:32.153] [INFO] booking - Connected to socket /#V5-jFR5AbbOQTnXNAAAD
+[2016-08-02 14:21:32.235] [INFO] booking - Connected to socket /#0Kx491ajfBi-T8veAAAE
+[2016-08-02 14:21:32.295] [INFO] booking - Connected to socket /#yUaG9_Oue7uwi2WVAAAF
+[2016-08-02 14:21:32.300] [INFO] booking - Connected to socket /#MRqoOifTv9oCZCdnAAAG
+[2016-08-02 14:21:32.366] [INFO] booking - Connected to socket /#qWR0iKUhIHw1zj2dAAAH
+[2016-08-02 14:21:32.537] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:32.556] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:32.578] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:32.607] [INFO] booking - Connected to socket /#z0lvcWsnob6gu2R0AAAI
+[2016-08-02 14:21:32.625] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:32.630] [INFO] booking - Connected to socket /#FMDllrBDitlRFtC3AAAJ
+[2016-08-02 14:21:32.676] [INFO] booking - Connected to socket /#X517bekfO2BxdFnLAAAK
+[2016-08-02 14:21:32.718] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:32.728] [INFO] booking - Connected to socket /#jn8E0VN-wK7HDDCWAAAL
+[2016-08-02 14:21:32.797] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:32.866] [INFO] booking - Connected to socket /#bIk0qUGwJ71BUx5WAAAM
+[2016-08-02 14:21:32.912] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:32.976] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:32.978] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:33.013] [INFO] booking - Request for all rooms
+[2016-08-02 14:21:33.521] [INFO] booking - Connected to socket /#-PPgKwkaiQYgAwkGAAAN
+[2016-08-02 14:21:33.523] [INFO] booking - Connected to socket /#l8t4uDkJgJnT_S3KAAAO
+[2016-08-02 14:21:33.754] [INFO] booking - Connected to socket /#d01YmDayNuym_c3SAAAP
+[2016-08-02 14:21:33.757] [INFO] booking - Connected to socket /#vwZv-DYKl5ScvWbAAAAQ
+[2016-08-02 14:21:33.799] [INFO] booking - Connected to socket /#ljxCOS4nBZVzti7iAAAR
+[2016-08-02 14:21:33.802] [INFO] booking - Connected to socket /#in4az7Ccy3Q4iJvzAAAS
+[2016-08-02 14:21:33.814] [INFO] booking - Connected to socket /#9osYYnrwerM3Wd8wAAAT
+[2016-08-02 14:21:33.944] [INFO] booking - Connected to socket /#lr-ZI0aeXE5xU5slAAAU
+[2016-08-02 14:21:34.004] [INFO] booking - Connected to socket /#7WE2ER0wfMvJZF0rAAAV
+[2016-08-02 14:21:34.052] [INFO] booking - Connected to socket /#uWL8Guy2gJXKwsVEAAAW
+[2016-08-02 14:21:35.177] [INFO] booking - Connected to socket /#NuX96CtHTXt2FERTAAAX
+[2016-08-02 14:21:35.180] [INFO] booking - Connected to socket /#gHR9dmgQLGs6i0GsAAAY
+[2016-08-02 14:21:35.667] [INFO] booking - Connected to socket /#GeMa1oee09GTe8KRAAAZ
+[2016-08-02 14:21:35.937] [INFO] booking - Connected to socket /#5QOClKK6uxn2z1vMAAAa
+[2016-08-02 14:21:35.942] [INFO] booking - Connected to socket /#EEWoOFQzijruUCVVAAAb
+[2016-08-02 14:21:36.121] [INFO] booking - Connected to socket /#VU1-vCvgMmcCz99mAAAc
+[2016-08-02 14:21:36.280] [INFO] booking - Connected to socket /#pm_X5OBnQyYOWxvwAAAd
+[2016-08-02 14:21:36.401] [INFO] booking - Connected to socket /#uanHk-3rfQ6KFezUAAAe
+[2016-08-02 14:21:36.419] [INFO] booking - Connected to socket /#24SNlKnCtJO6VBsLAAAf
+[2016-08-02 14:21:36.737] [INFO] booking - Connected to socket /#CFpMw5H3lk953jx7AAAg
+[2016-08-02 14:21:37.953] [INFO] booking - Connected to socket /#WsAuqnF5G9zwJBKeAAAh
+[2016-08-02 14:21:38.398] [INFO] booking - Connected to socket /#Yy_PYpN9Ko1c8iDBAAAi
+[2016-08-02 14:21:38.586] [INFO] booking - Connected to socket /#I_vCHw_hrT9_yJHWAAAj
+[2016-08-02 14:21:39.181] [INFO] booking - Connected to socket /#J4zEKkbneHG83WbuAAAk
+[2016-08-02 14:21:39.228] [INFO] booking - Connected to socket /#6_AhcVnkEFH7KVSsAAAl
+[2016-08-02 14:21:39.920] [INFO] booking - Connected to socket /#u54Gtk7LYWOx7r3lAAAm
+[2016-08-02 14:21:40.261] [INFO] booking - Connected to socket /#_npeeBehv8PPRA5xAAAn
+[2016-08-02 14:21:40.295] [INFO] booking - Connected to socket /#uPEC3x8bTeg3o8ZEAAAo
+[2016-08-02 14:21:40.968] [INFO] booking - Connected to socket /#tn8LUCrF-VRBA1CFAAAp
+[2016-08-02 14:21:41.447] [INFO] booking - Connected to socket /#wCCoomDR9v14g3voAAAq
+[2016-08-02 14:21:43.004] [INFO] booking - Connected to socket /#BgKWU1aseWcBCY2tAAAr
+[2016-08-02 14:21:43.451] [INFO] booking - Connected to socket /#sSAZqBVuZpFQZ6t3AAAs
+[2016-08-02 14:21:43.622] [INFO] booking - Connected to socket /#22EIFuXsnQ6R9RSSAAAt
+[2016-08-02 14:21:44.216] [INFO] booking - Connected to socket /#qS8yCZtUXrJgjtJoAAAu
+[2016-08-02 14:21:44.256] [INFO] booking - Connected to socket /#QluHjUw7VSKqWtFhAAAv
+[2016-08-02 14:21:44.960] [INFO] booking - Connected to socket /#Agk4TK1In1liAea7AAAw
+[2016-08-02 14:21:45.066] [INFO] booking - Connected to socket /#0_ZUhQ4HqTpW-NbuAAAx
+[2016-08-02 14:21:45.302] [INFO] booking - Connected to socket /#5Ctt-Zbh4cluSBVAAAAy
+[2016-08-02 14:21:46.016] [INFO] booking - Connected to socket /#neL91Ol_BugbMyEqAAAz
+[2016-08-02 14:21:46.499] [INFO] booking - Connected to socket /#2nz_AqVdJ91N5BiFAAA0
+[2016-08-02 14:21:48.066] [INFO] booking - Connected to socket /#qR5dH7DYQPbG5k97AAA1
+[2016-08-02 14:21:48.534] [INFO] booking - Connected to socket /#WQhia3-ZsymUSc55AAA2
+[2016-08-02 14:21:48.691] [INFO] booking - Connected to socket /#Q7od05dgExU-nyevAAA3
+[2016-08-02 14:21:49.257] [INFO] booking - Connected to socket /#nQtgylgpLTJ7WyDCAAA4
+[2016-08-02 14:21:49.298] [INFO] booking - Connected to socket /#P3zFtsQQ3YHXOzdpAAA5
+[2016-08-02 14:21:49.999] [INFO] booking - Connected to socket /#UZGSiLzXpny_wsZpAAA6
+[2016-08-02 14:21:50.123] [INFO] booking - Connected to socket /#GzIWLfQm_8QDpdx8AAA7
+[2016-08-02 14:21:50.342] [INFO] booking - Connected to socket /#raCBEcQWBpFPXJ9VAAA8
+[2016-08-02 14:21:51.058] [INFO] booking - Connected to socket /#gpNjkZ5VhoSXjubbAAA9
+[2016-08-02 14:21:51.545] [INFO] booking - Connected to socket /#qz-NsiuNI2bIYcB2AAA-
+[2016-08-02 14:21:53.135] [INFO] booking - Connected to socket /#VbJVok4FRTZCAZMUAAA_
+[2016-08-02 14:21:53.579] [INFO] booking - Connected to socket /#LZd3pfOrGn5Ydvr-AABA
+[2016-08-02 14:21:53.739] [INFO] booking - Connected to socket /#F1CuFnGy6wiF7KR4AABB
+[2016-08-02 14:21:54.348] [INFO] booking - Connected to socket /#x4-idNCzBDiRCARJAABC
+[2016-08-02 14:21:54.349] [INFO] booking - Connected to socket /#iG1dbKLU8b7sf8NVAABD
+[2016-08-02 14:21:55.040] [INFO] booking - Connected to socket /#BPba6A3JgQR9rJpcAABE
+[2016-08-02 14:21:55.148] [INFO] booking - Connected to socket /#QQnrLFuxZZtXevHwAABF
+[2016-08-02 14:21:55.381] [INFO] booking - Connected to socket /#SyTRLYhKKccaXtPEAABG
+[2016-08-02 14:21:56.186] [INFO] booking - Connected to socket /#ugQAF6UJiLkn77A5AABH
+[2016-08-02 14:21:56.588] [INFO] booking - Connected to socket /#CES9aCjyE4HjTSGyAABI
+[2016-08-02 14:21:58.196] [INFO] booking - Connected to socket /#jjwZPJmBOsTe1-bKAABJ
+[2016-08-02 14:21:58.614] [INFO] booking - Connected to socket /#VBEDCCmbbQyUno1jAABK
+[2016-08-02 14:21:58.772] [INFO] booking - Connected to socket /#kthTxA7KnwRMDmkcAABL
+[2016-08-02 14:21:59.404] [INFO] booking - Connected to socket /#AVefwWaCO2cIYQWWAABM
+[2016-08-02 14:21:59.427] [INFO] booking - Connected to socket /#e5hDKAjDAPy5DNRgAABN
+[2016-08-02 14:22:00.078] [INFO] booking - Connected to socket /#EcmAdcGDpNm5gOdDAABO
+[2016-08-02 14:22:00.184] [INFO] booking - Connected to socket /#lwJQAyQDYFpwgy74AABP
+[2016-08-02 14:22:00.436] [INFO] booking - Connected to socket /#8V-Eiilh9RkUHrWKAABQ
+[2016-08-02 14:22:01.217] [INFO] booking - Connected to socket /#G1p5fQLRL1a_5pRFAABR
+[2016-08-02 14:22:01.638] [INFO] booking - Connected to socket /#S2-M4RsbBGRDU_KHAABS
+[2016-08-02 14:22:03.238] [INFO] booking - Connected to socket /#acfvXTR_wAQyuUyAAABT
+[2016-08-02 14:22:03.662] [INFO] booking - Connected to socket /#USJkPOvjpIHGdjbzAABU
+[2016-08-02 14:22:03.799] [INFO] booking - Connected to socket /#EGxvr4mVTkI8W1KDAABV
+[2016-08-02 14:22:04.448] [INFO] booking - Connected to socket /#gO8Hs558ixucLJ6kAABW
+[2016-08-02 14:22:04.477] [INFO] booking - Connected to socket /#jhgogxX-_NTyI-q_AABX
+[2016-08-02 14:22:05.120] [INFO] booking - Connected to socket /#bIoaFGVbY4eBhVCSAABY
+[2016-08-02 14:22:05.229] [INFO] booking - Connected to socket /#_Y4NY1ml_o16pMpuAABZ
+[2016-08-02 14:22:05.475] [INFO] booking - Connected to socket /#vesPsBKkVpCv6k06AABa
+[2016-08-02 14:22:06.263] [INFO] booking - Connected to socket /#u-5D7hKZC3ty1w6rAABb
+[2016-08-02 14:22:06.685] [INFO] booking - Connected to socket /#3pusnS3SW4tp8ZsbAABc
+[2016-08-02 14:22:11.876] [INFO] booking - App runs on  3000
+[2016-08-02 14:22:11.912] [INFO] booking - Connected to socket /#kEGCvTHa40vYapiWAAAA
+[2016-08-02 14:22:11.996] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 14:22:13.361] [INFO] booking - Connected to socket /#01sYw133dq-y7aSSAAAB
+[2016-08-02 14:22:13.747] [INFO] booking - Connected to socket /#X5OlxyS02Pq81cHHAAAC
+[2016-08-02 14:22:13.866] [INFO] booking - Connected to socket /#n5yKDO-EVdNE110DAAAD
+[2016-08-02 14:22:14.583] [INFO] booking - Connected to socket /#O6pH8ShFZusW_jdOAAAE
+[2016-08-02 14:22:14.605] [INFO] booking - Connected to socket /#TnUKMJ75faJNMPvSAAAF
+[2016-08-02 14:22:15.225] [INFO] booking - Connected to socket /#9e2yvJaD53MTcteWAAAG
+[2016-08-02 14:22:15.292] [INFO] booking - Connected to socket /#bmGAYiHuTD8qP3t1AAAH
+[2016-08-02 14:22:15.571] [INFO] booking - Connected to socket /#wxhF9tD4_pliqxTcAAAI
+[2016-08-02 14:22:16.339] [INFO] booking - Connected to socket /#2KC4-SEkvMyhVqK1AAAJ
+[2016-08-02 14:22:16.950] [INFO] booking - Connected to socket /#1sv3IaFUco7tU3KZAAAK
+[2016-08-02 14:22:18.419] [INFO] booking - Connected to socket /#By5e6lU1U1MA3oVCAAAL
+[2016-08-02 14:22:18.828] [INFO] booking - Connected to socket /#rksrM6_4D7LICeojAAAM
+[2016-08-02 14:22:18.900] [INFO] booking - Connected to socket /#_uVwE6rb078458LKAAAN
+[2016-08-02 14:22:19.633] [INFO] booking - Connected to socket /#dwK_IIAuFz-G8uJhAAAO
+[2016-08-02 14:22:19.658] [INFO] booking - Connected to socket /#ou5jGs3d6Y0DNRoEAAAP
+[2016-08-02 14:22:20.257] [INFO] booking - Connected to socket /#wG94bTQvmQ-pPeJAAAAQ
+[2016-08-02 14:22:20.331] [INFO] booking - Connected to socket /#ZiFMIGuEBwkByfJkAAAR
+[2016-08-02 14:22:20.618] [INFO] booking - Connected to socket /#LgeWCHmJXYnbli_lAAAS
+[2016-08-02 14:22:21.396] [INFO] booking - Connected to socket /#crYpqD7QF8rcAA2sAAAT
+[2016-08-02 14:22:21.993] [INFO] booking - Connected to socket /#ANBaVI4BSPcT3kH5AAAU
+[2016-08-02 14:22:23.477] [INFO] booking - Connected to socket /#RG521KwXsKAXEByGAAAV
+[2016-08-02 14:22:23.873] [INFO] booking - Connected to socket /#2BX6hQ8mfTlU_YecAAAW
+[2016-08-02 14:22:23.975] [INFO] booking - Connected to socket /#7usZKgydox3AUbhAAAAX
+[2016-08-02 14:22:24.683] [INFO] booking - Connected to socket /#9AN8hyW1oNpiAxOOAAAY
+[2016-08-02 14:22:24.711] [INFO] booking - Connected to socket /#xh4M8ANjEZDTk2cGAAAZ
+[2016-08-02 14:22:45.363] [INFO] booking - App runs on  3000
+[2016-08-02 14:22:45.382] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 14:27:50.676] [INFO] booking - Connected to socket /#_hlZrlh3D9ri9g8jAAAA
+[2016-08-02 14:27:50.699] [INFO] booking - Request for all rooms
+[2016-08-02 14:27:51.519] [INFO] booking - Connected to socket /#2EM3tAsfsmzMCMj7AAAB
+[2016-08-02 14:27:53.327] [INFO] booking - Connected to socket /#BpVgjBtJaWAOVLq_AAAC
+[2016-08-02 14:27:58.054] [INFO] booking - Connected to socket /#dWQKUzDmtzVi2HzTAAAD
+[2016-08-02 14:28:03.071] [INFO] booking - Connected to socket /#0eoUzc7mNN5RZrcTAAAE
+[2016-08-02 14:28:08.089] [INFO] booking - Connected to socket /#z2wKvrdPlTpPYd2HAAAF
+[2016-08-02 14:28:13.109] [INFO] booking - Connected to socket /#NSlRW10MpTbRqHj7AAAG
+[2016-08-02 14:28:18.115] [INFO] booking - Connected to socket /#v21ynf50SchBpXoTAAAH
+[2016-08-02 14:28:23.134] [INFO] booking - Connected to socket /#ej7lG8NIC-rqM9kQAAAI
+[2016-08-02 14:28:28.258] [INFO] booking - Connected to socket /#piu-ODhMxCIU63qQAAAJ
+[2016-08-02 14:28:33.281] [INFO] booking - Connected to socket /#ztV2E6S2caFMZyEwAAAK
+[2016-08-02 14:28:41.573] [INFO] booking - Connected to socket /#vZAioEYnOjim2wPgAAAL
+[2016-08-02 14:28:41.575] [INFO] booking - Request for all rooms
+[2016-08-02 14:29:08.620] [INFO] booking - Connected to socket /#mYRBar9bKjyKKS4IAAAM
+[2016-08-02 14:29:08.623] [INFO] booking - Request for all rooms
+[2016-08-02 14:30:42.285] [INFO] booking - Connected to socket /#QE4sOclIb2ZnaDLdAAAN
+[2016-08-02 14:30:42.300] [INFO] booking - Request for all rooms
+[2016-08-02 14:30:48.448] [INFO] booking - App runs on  3000
+[2016-08-02 14:30:48.469] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 14:30:50.152] [INFO] booking - Connected to socket /#GxxIo4bn8cWeqZ3lAAAA
+[2016-08-02 14:31:20.322] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 14:31:21.899] [INFO] booking - Connected to socket /#G4xtU4ocz4mzi-b4AAAB
+[2016-08-02 14:31:21.912] [INFO] booking - Request for all rooms
+[2016-08-02 14:31:59.030] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 14:31:59.065] [INFO] booking - Request for all rooms
+[2016-08-02 14:32:16.182] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 14:32:16.219] [INFO] booking - Request for all rooms
+[2016-08-02 14:32:25.174] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-02 14:38:01.555] [INFO] booking - User with test@chisw.com login
+[2016-08-02 14:38:01.709] [INFO] booking - Connected to socket /#goseo3UKvZyfLkktAAAC
+[2016-08-02 14:38:01.757] [INFO] booking - Request for all rooms
+[2016-08-02 14:38:02.450] [INFO] booking - Connected to socket /#5TLII1AHigNs1ymYAAAD
+[2016-08-02 14:38:04.668] [INFO] booking - Connected to socket /#RnBhR3P1dQiOBrcgAAAE
+[2016-08-02 14:38:07.961] [INFO] booking - Connected to socket /#Y50rFK4L_vvJ6rjdAAAF
+[2016-08-02 14:38:13.015] [INFO] booking - Connected to socket /#MW8NQAdSO6wUhqVoAAAG
+[2016-08-02 14:38:18.072] [INFO] booking - Connected to socket /#DR4ib79t0LjmEAoQAAAH
+[2016-08-02 14:41:47.887] [INFO] booking - Connected to socket /#TFee3pr7Yeaoj9eVAAAI
+[2016-08-02 14:41:47.974] [INFO] booking - Request for all rooms
+[2016-08-02 14:42:41.405] [INFO] booking - User with test4@chisw.com login
+[2016-08-02 14:42:42.342] [INFO] booking - Request for all rooms
+[2016-08-02 14:42:42.358] [INFO] booking - Connected to socket /#fwwteJFdOzKoXErtAAAJ
+[2016-08-02 14:43:55.246] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 14:43:55.401] [INFO] booking - Request for all rooms
+[2016-08-02 14:45:47.941] [INFO] booking - User with test2@chisw.com login
+[2016-08-02 14:45:50.253] [INFO] booking - Connected to socket /#VdUwm2jGrMFkV2-bAAAK
+[2016-08-02 14:45:50.299] [INFO] booking - Request for all rooms
+[2016-08-02 14:47:47.193] [INFO] booking - App runs on  3000
+[2016-08-02 14:47:47.245] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 14:47:56.981] [INFO] booking - Connected to socket /#uDcVKSDRYYOI92IOAAAA
+[2016-08-02 14:47:57.096] [INFO] booking - Request for all rooms
+[2016-08-02 14:48:02.913] [INFO] booking - User 579f1c8b6c4d5a858014bcbf now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 14:48:02.951] [INFO] booking - Request for all rooms
+[2016-08-02 14:48:32.645] [INFO] booking - User 579f1c8b6c4d5a858014bcbf stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 14:48:32.669] [INFO] booking - Request for all rooms
+[2016-08-02 14:48:39.954] [INFO] booking - User 579f1c8b6c4d5a858014bcbf now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 14:48:40.020] [INFO] booking - Request for all rooms
+[2016-08-02 14:48:40.023] [INFO] booking - Request for all rooms
+[2016-08-02 14:48:44.671] [INFO] booking - User 579f1c8b6c4d5a858014bcbf stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 14:48:44.703] [INFO] booking - Request for all rooms
+[2016-08-02 14:48:44.705] [INFO] booking - Request for all rooms
+[2016-08-02 15:08:16.864] [INFO] booking - User with test@chisw.com login
+[2016-08-02 15:08:19.118] [INFO] booking - Request for all rooms
+[2016-08-02 15:08:19.143] [INFO] booking - Connected to socket /#L3tpr8q2_guiVmobAAAB
+[2016-08-02 15:09:24.260] [INFO] booking - Connected to socket /#yWWuU6sEL__G6CxDAAAC
+[2016-08-02 15:10:28.477] [INFO] booking - User with test2@chisw.com login
+[2016-08-02 15:10:30.763] [INFO] booking - Connected to socket /#72T7bOcDZ5eD_VhOAAAD
+[2016-08-02 15:17:45.544] [INFO] booking - Request for all rooms
+[2016-08-02 15:17:45.588] [INFO] booking - Connected to socket /#WxELMJJwoPbmgpYOAAAE
+[2016-08-02 15:17:46.481] [INFO] booking - Connected to socket /#Y4S0zFYEbV6rQJtlAAAF
+[2016-08-02 15:17:49.474] [INFO] booking - Connected to socket /#DQ2xg-EDxrS-CDPzAAAG
+[2016-08-02 15:17:54.535] [INFO] booking - Connected to socket /#_Lj9pdvEwS9bjQEqAAAH
+[2016-08-02 15:17:59.605] [INFO] booking - Connected to socket /#lUDI2EvljWirUsLRAAAI
+[2016-08-02 15:18:04.649] [INFO] booking - Connected to socket /#HLPz1WfjLAOj0wOpAAAJ
+[2016-08-02 15:18:09.706] [INFO] booking - Connected to socket /#2dlgZSrfFT6hH-4pAAAK
+[2016-08-02 15:18:12.712] [INFO] booking - User with test2@chisw.com login
+[2016-08-02 15:18:12.829] [INFO] booking - Connected to socket /#W92tVQc1n5iFqZpEAAAL
+[2016-08-02 15:18:12.846] [INFO] booking - Request for all rooms
+[2016-08-02 15:18:14.300] [INFO] booking - Connected to socket /#DSwIYiG0s7N_-x6WAAAM
+[2016-08-02 15:18:14.743] [INFO] booking - Connected to socket /#cL0mlyhtuLZOKYBCAAAN
+[2016-08-02 15:18:17.337] [INFO] booking - Connected to socket /#PoSWeticvmpyOn2nAAAO
+[2016-08-02 15:18:19.787] [INFO] booking - Connected to socket /#B8tLQywgct1U7tWqAAAP
+[2016-08-02 15:18:20.849] [INFO] booking - Connected to socket /#YSYKnWpZcix7RfBnAAAQ
+[2016-08-02 15:18:24.848] [INFO] booking - Connected to socket /#AC-wD2RH0Z79CJbEAAAR
+[2016-08-02 15:18:25.900] [INFO] booking - Connected to socket /#vdbX-3X4QT4NCDRPAAAS
+[2016-08-02 15:18:29.916] [INFO] booking - Connected to socket /#uMFUpaS6wVhJrOtiAAAT
+[2016-08-02 15:18:30.958] [INFO] booking - Connected to socket /#VDmH_7FbB12o078BAAAU
+[2016-08-02 15:18:34.983] [INFO] booking - Connected to socket /#1JmpP4HD_A4py-YsAAAV
+[2016-08-02 15:18:36.031] [INFO] booking - Connected to socket /#rpPqMaGMr_91ZJrlAAAW
+[2016-08-02 15:18:40.051] [INFO] booking - Connected to socket /#K_-po2jxTlPvw5zEAAAX
+[2016-08-02 15:18:41.100] [INFO] booking - Connected to socket /#IV0RpHZGU6s8xDJoAAAY
+[2016-08-02 15:18:45.112] [INFO] booking - Connected to socket /#NF7vY-DybowoswshAAAZ
+[2016-08-02 15:18:46.161] [INFO] booking - Connected to socket /#OtM8992yr8lDmQHuAAAa
+[2016-08-02 15:18:50.199] [INFO] booking - Connected to socket /#qlpEl-b6UTdfV4iMAAAb
+[2016-08-02 15:18:51.211] [INFO] booking - Connected to socket /#EIkdpQftGUdRK0IZAAAc
+[2016-08-02 15:18:55.259] [INFO] booking - Connected to socket /#J1nwxVR44M_qEHaiAAAd
+[2016-08-02 15:18:56.251] [INFO] booking - Connected to socket /#1v_B-eid3dtT2z7EAAAe
+[2016-08-02 15:19:00.321] [INFO] booking - Connected to socket /#qmokDkkBeh_tyXaYAAAf
+[2016-08-02 15:19:01.302] [INFO] booking - Connected to socket /#kX6o9uD9Jv-Ucz_OAAAg
+[2016-08-02 15:19:05.362] [INFO] booking - Connected to socket /#wcu91KTyM_ILsugRAAAh
+[2016-08-02 15:19:06.353] [INFO] booking - Connected to socket /#RP6NZaVQzC5wsqB3AAAi
+[2016-08-02 15:19:10.419] [INFO] booking - Connected to socket /#RZt6LQTkqvb7LCE2AAAj
+[2016-08-02 15:19:11.405] [INFO] booking - Connected to socket /#UZculUIDHnp6H0d9AAAk
+[2016-08-02 15:19:42.435] [INFO] booking - Connected to socket /#nDE5RnFiW1ykabWiAAAl
+[2016-08-02 15:19:42.452] [INFO] booking - Connected to socket /#wGW1iXMYdBxNfrSbAAAm
+[2016-08-02 15:19:47.546] [INFO] booking - Connected to socket /#2mFgRhKRYHy-kV0uAAAn
+[2016-08-02 15:19:47.547] [INFO] booking - Connected to socket /#_CWChsgpEUFo7FSdAAAo
+[2016-08-02 15:19:52.613] [INFO] booking - Connected to socket /#yBiD2HBuJJ0AKiF0AAAp
+[2016-08-02 15:19:52.616] [INFO] booking - Connected to socket /#6sYw6NSfaLeF_hUvAAAq
+[2016-08-02 15:19:57.673] [INFO] booking - Connected to socket /#-0beiTup6DYRfuQ1AAAr
+[2016-08-02 15:19:57.674] [INFO] booking - Connected to socket /#Sq95Svqj9a25GntlAAAs
+[2016-08-02 15:21:46.689] [INFO] booking - Connected to socket /#CXQCuPKNWsx3e-WtAAAt
+[2016-08-02 15:21:46.692] [INFO] booking - Connected to socket /#H5Z-erLMkhG7UbacAAAu
+[2016-08-02 15:21:51.740] [INFO] booking - Connected to socket /#mB0LMcE4cSDxvfybAAAv
+[2016-08-02 15:21:51.785] [INFO] booking - Connected to socket /#dymO3GX1GEZvYWGMAAAw
+[2016-08-02 15:21:56.789] [INFO] booking - Connected to socket /#Y_dcRZOUjDOHEowfAAAx
+[2016-08-02 15:21:56.830] [INFO] booking - Connected to socket /#VgbkQfyVuShOqZktAAAy
+[2016-08-02 15:22:01.863] [INFO] booking - Connected to socket /#dhQ4ethXVPgFWkK7AAAz
+[2016-08-02 15:22:01.880] [INFO] booking - Connected to socket /#wA6PaNDmbC3-mwrqAAA0
+[2016-08-02 15:22:06.917] [INFO] booking - Connected to socket /#IDd1Qh1zsbsXnTiSAAA1
+[2016-08-02 15:22:06.918] [INFO] booking - Connected to socket /#62iWxIhJmALMV-UEAAA2
+[2016-08-02 15:22:11.960] [INFO] booking - Connected to socket /#_aSvZhtAz9F7CsKGAAA3
+[2016-08-02 15:22:11.965] [INFO] booking - Connected to socket /#re6IK_M5SJeNHGfwAAA4
+[2016-08-02 15:22:15.192] [INFO] booking - User with test@chisw.com login
+[2016-08-02 15:22:15.280] [INFO] booking - Connected to socket /#rj1guLSIMUqoMuEWAAA5
+[2016-08-02 15:22:15.317] [INFO] booking - Request for all rooms
+[2016-08-02 15:22:16.550] [INFO] booking - Connected to socket /#6NJ2h1C8rfXddtyoAAA6
+[2016-08-02 15:22:17.000] [INFO] booking - Connected to socket /#_Q6ydpC55x1XuZnWAAA7
+[2016-08-02 15:22:17.018] [INFO] booking - Connected to socket /#oZBBYYyKOWzss790AAA8
+[2016-08-02 15:22:19.344] [INFO] booking - Connected to socket /#H62PUBgpmEPXC8FKAAA9
+[2016-08-02 15:22:22.071] [INFO] booking - Connected to socket /#MgUnsRk7X5pxRohBAAA-
+[2016-08-02 15:22:22.073] [INFO] booking - Connected to socket /#DSiOLTimP5E9iOtfAAA_
+[2016-08-02 15:22:24.401] [INFO] booking - Connected to socket /#ps9qzUBV6a7W3oyuAABA
+[2016-08-02 15:22:27.122] [INFO] booking - Connected to socket /#-cHdnDLJjA7rUrdmAABB
+[2016-08-02 15:22:27.129] [INFO] booking - Connected to socket /#GDAwD4sQa2OogSCDAABC
+[2016-08-02 15:22:29.219] [INFO] booking - Connected to socket /#dcuFeDdNXSmnYVL0AABD
+[2016-08-02 15:22:32.185] [INFO] booking - Connected to socket /#BTWpNa5TwbrZQYO8AABE
+[2016-08-02 15:22:32.186] [INFO] booking - Connected to socket /#rfkZG0J8Eo8HgPNwAABF
+[2016-08-02 15:22:34.257] [INFO] booking - Connected to socket /#eCZDhxqvGRSqOR4cAABG
+[2016-08-02 15:22:37.242] [INFO] booking - Connected to socket /#MiDl07HZNgoYO6Y2AABH
+[2016-08-02 15:22:37.248] [INFO] booking - Connected to socket /#wtEmH5456jiF_agzAABI
+[2016-08-02 15:22:39.313] [INFO] booking - Connected to socket /#OaWBhQKTtheYySQ5AABJ
+[2016-08-02 15:22:42.302] [INFO] booking - Connected to socket /#PCjVR1TdlnCHpmxoAABK
+[2016-08-02 15:22:42.303] [INFO] booking - Connected to socket /#etf5GO2O1vTKpqYYAABL
+[2016-08-02 15:22:44.377] [INFO] booking - Connected to socket /#4_fO8YcqTnmebXJcAABM
+[2016-08-02 15:22:47.365] [INFO] booking - Connected to socket /#oFQJp1vMZJJkeZPmAABN
+[2016-08-02 15:22:47.372] [INFO] booking - Connected to socket /#5O0dpyotKA3u8ahOAABO
+[2016-08-02 15:22:49.417] [INFO] booking - Connected to socket /#vbcoBwLEc1WrZ4tAAABP
+[2016-08-02 15:22:52.413] [INFO] booking - Connected to socket /#tvEaa_0REC-adO0nAABQ
+[2016-08-02 15:22:52.427] [INFO] booking - Connected to socket /#U7I-8FrrHPg8wmQFAABR
+[2016-08-02 15:22:54.484] [INFO] booking - Connected to socket /#8dluvoBx2xsme-bTAABS
+[2016-08-02 15:22:57.474] [INFO] booking - Connected to socket /#eUNCmrw3JGWCJC0dAABT
+[2016-08-02 15:22:57.476] [INFO] booking - Connected to socket /#mqs4rtaYGjCNjrZqAABU
+[2016-08-02 15:22:59.544] [INFO] booking - Connected to socket /#Jqjcg8_u6rGIyzS1AABV
+[2016-08-02 15:23:02.533] [INFO] booking - Connected to socket /#zt0jS3jUum4H5yMgAABW
+[2016-08-02 15:23:02.552] [INFO] booking - Connected to socket /#lRNkX7eUCpMSh95PAABX
+[2016-08-02 15:23:04.582] [INFO] booking - Connected to socket /#0PKi8JDjH9YxAnZzAABY
+[2016-08-02 15:23:07.655] [INFO] booking - Connected to socket /#4imMkCjGqSTNN3EMAABZ
+[2016-08-02 15:23:07.660] [INFO] booking - Connected to socket /#AcXn6IGV-_WFJdl5AABa
+[2016-08-02 15:23:09.647] [INFO] booking - Connected to socket /#8UcQKmAr4t0pMhNUAABb
+[2016-08-02 15:23:12.730] [INFO] booking - Connected to socket /#IKwiJXLZIfk4eNv2AABc
+[2016-08-02 15:23:12.739] [INFO] booking - Connected to socket /#YhzH_4l0BO0f22WGAABd
+[2016-08-02 15:23:14.707] [INFO] booking - Connected to socket /#np04sxNKOny-yxEAAABe
+[2016-08-02 15:23:17.798] [INFO] booking - Connected to socket /#WCF8TBOnsBqujjN1AABf
+[2016-08-02 15:23:17.803] [INFO] booking - Connected to socket /#3rH5_-LEkK_S87nBAABg
+[2016-08-02 15:23:19.768] [INFO] booking - Connected to socket /#3hzHwKWFd_g7eWBkAABh
+[2016-08-02 15:23:22.867] [INFO] booking - Connected to socket /#1n7UaRpmKPRbWC0IAABi
+[2016-08-02 15:23:22.914] [INFO] booking - Connected to socket /#EctHwbgu6qipR8OzAABj
+[2016-08-02 15:23:24.812] [INFO] booking - Connected to socket /#Vhl8qan9PFWUZwbDAABk
+[2016-08-02 15:23:27.918] [INFO] booking - Connected to socket /#poo0NV6hFv8l9g6nAABl
+[2016-08-02 15:23:27.968] [INFO] booking - Connected to socket /#yEHiTX6MJ0CrnFREAABm
+[2016-08-02 15:23:29.865] [INFO] booking - Connected to socket /#nSKt3Fe8fr1ey5AzAABn
+[2016-08-02 15:23:32.989] [INFO] booking - Connected to socket /#dBoCtJJlPqYwwQVZAABo
+[2016-08-02 15:23:33.007] [INFO] booking - Connected to socket /#yn1kv9tDhhQ4tOIaAABp
+[2016-08-02 15:23:34.928] [INFO] booking - Connected to socket /#td-IFlc0aBhv6VGjAABq
+[2016-08-02 15:23:38.059] [INFO] booking - Connected to socket /#XfnZFsnERrYrDWsFAABr
+[2016-08-02 15:23:38.080] [INFO] booking - Connected to socket /#HzJp_jhKM3s-7nl2AABs
+[2016-08-02 15:23:40.007] [INFO] booking - Connected to socket /#b5uWPNaILKcc8_zyAABt
+[2016-08-02 15:23:43.164] [INFO] booking - Connected to socket /#8wjFl3iwYYkSkyK4AABu
+[2016-08-02 15:23:43.174] [INFO] booking - Connected to socket /#OO2iFSX0mI0pzV24AABv
+[2016-08-02 15:23:45.060] [INFO] booking - Connected to socket /#bNIKc0pGkOB6HrsrAABw
+[2016-08-02 15:23:48.210] [INFO] booking - Connected to socket /#p0u_xcvGakOBtRwrAABx
+[2016-08-02 15:23:48.237] [INFO] booking - Connected to socket /#8OwLAaRx3fFL7Q1pAABy
+[2016-08-02 15:23:50.129] [INFO] booking - Connected to socket /#Hf9c75iB2U2Co9WCAABz
+[2016-08-02 15:23:53.279] [INFO] booking - Connected to socket /#Sg0CPrzVjAgU9uIvAAB0
+[2016-08-02 15:23:53.315] [INFO] booking - Connected to socket /#LmWfjxDrfbXo7KHDAAB1
+[2016-08-02 15:23:55.190] [INFO] booking - Connected to socket /#EhhPhaf-9IzShn3HAAB2
+[2016-08-02 15:23:58.367] [INFO] booking - Connected to socket /#U_atHMLuzEZvkqbqAAB3
+[2016-08-02 15:23:58.399] [INFO] booking - Connected to socket /#BHBk28EhyZcPUaidAAB4
+[2016-08-02 15:24:00.250] [INFO] booking - Connected to socket /#6GIaE1OQUQ6bBUzrAAB5
+[2016-08-02 15:24:03.469] [INFO] booking - Connected to socket /#eYTBjv-A38x3cZB2AAB6
+[2016-08-02 15:24:03.471] [INFO] booking - Connected to socket /#UWjRi6ob_icoJ8MmAAB7
+[2016-08-02 15:24:05.288] [INFO] booking - Connected to socket /#ZPpT9Pb2GgAUhAidAAB8
+[2016-08-02 15:24:08.578] [INFO] booking - Connected to socket /#2lFmvS9gegdYekVOAAB9
+[2016-08-02 15:24:08.581] [INFO] booking - Connected to socket /#G500rKJU8pNwYMz9AAB-
+[2016-08-02 15:24:10.346] [INFO] booking - Connected to socket /#UxmE45ps2OaWdOJZAAB_
+[2016-08-02 15:24:13.631] [INFO] booking - Connected to socket /#GmZnmt0OWdiSE8wRAACA
+[2016-08-02 15:24:13.637] [INFO] booking - Connected to socket /#XH10HfqHSxewcaMOAACB
+[2016-08-02 15:24:15.401] [INFO] booking - Connected to socket /#G-xCazQpO76RHHTZAACC
+[2016-08-02 15:24:18.711] [INFO] booking - Connected to socket /#MddkS3HjQsaJTj0xAACD
+[2016-08-02 15:24:18.713] [INFO] booking - Connected to socket /#uwe9dFf4w9S6_zS9AACE
+[2016-08-02 15:24:20.453] [INFO] booking - Connected to socket /#DQwY9eIEyFVjgCssAACF
+[2016-08-02 15:24:23.769] [INFO] booking - Connected to socket /#elWf4sWjD_6YXkLOAACG
+[2016-08-02 15:24:23.776] [INFO] booking - Connected to socket /#OgdNOUs-g32Mvi_RAACH
+[2016-08-02 15:24:25.509] [INFO] booking - Connected to socket /#18tjGK8SPR9Lgm7wAACI
+[2016-08-02 15:24:28.829] [INFO] booking - Connected to socket /#NPw93A28c1m4j2XMAACJ
+[2016-08-02 15:24:28.849] [INFO] booking - Connected to socket /#Z2AaQiRldu85_F1zAACK
+[2016-08-02 15:24:30.570] [INFO] booking - Connected to socket /#yYs4gYvhNWXcnDm0AACL
+[2016-08-02 15:24:33.910] [INFO] booking - Connected to socket /#epFmru_9BpnyoZxtAACM
+[2016-08-02 15:24:33.942] [INFO] booking - Connected to socket /#6tg9kQdW1tuNfjizAACN
+[2016-08-02 15:24:35.643] [INFO] booking - Connected to socket /#D5LAvrVWzmueGBpMAACO
+[2016-08-02 15:24:38.961] [INFO] booking - Connected to socket /#UFGpiaxXnfYVyyx6AACP
+[2016-08-02 15:24:39.001] [INFO] booking - Connected to socket /#p0zR4YtdkddvtQSuAACQ
+[2016-08-02 15:24:40.692] [INFO] booking - Connected to socket /#2jFXXcwbxaI50mftAACR
+[2016-08-02 15:24:44.011] [INFO] booking - Connected to socket /#enN7_nyT0Fu8MnuIAACS
+[2016-08-02 15:24:44.054] [INFO] booking - Connected to socket /#eWZ1Fbglb9MdCDnGAACT
+[2016-08-02 15:24:45.741] [INFO] booking - Connected to socket /#kIhFUiPayed6Z-x0AACU
+[2016-08-02 15:24:49.073] [INFO] booking - Connected to socket /#vshKtTNjERx87HqdAACV
+[2016-08-02 15:24:49.114] [INFO] booking - Connected to socket /#Pyw6K-2bcqtTjC7jAACW
+[2016-08-02 15:24:50.806] [INFO] booking - Connected to socket /#qfsUGqNwwymWE-z4AACX
+[2016-08-02 15:24:54.143] [INFO] booking - Connected to socket /#_Fu5OXxr1N9bufm0AACY
+[2016-08-02 15:24:54.174] [INFO] booking - Connected to socket /#S8ypfRVJCYDoYooWAACZ
+[2016-08-02 15:24:55.873] [INFO] booking - Connected to socket /#RGRKP0FEAvxVUJNUAACa
+[2016-08-02 15:25:03.138] [INFO] booking - App runs on  3000
+[2016-08-02 15:25:03.169] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 15:25:05.111] [INFO] booking - Connected to socket /#b_Vqf4PRNa0p6Y8vAAAA
+[2016-08-02 15:25:05.434] [INFO] booking - Connected to socket /#vGri1VVenYyQc3OwAAAB
+[2016-08-02 15:36:19.229] [INFO] booking - Connected to socket /#LCbR4OpNXfSA4-fmAAAC
+[2016-08-02 15:37:08.364] [INFO] booking - User with test@chisw.com login
+[2016-08-02 15:37:10.614] [INFO] booking - Connected to socket /#aQ7ZVMY5Tq4cCXxjAAAD
+[2016-08-02 15:40:26.154] [INFO] booking - Connected to socket /#80TeF60WZAj0uQFIAAAE
+[2016-08-02 15:40:26.279] [INFO] booking - Request for all rooms
+[2016-08-02 15:40:45.600] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 15:40:45.639] [INFO] booking - Request for all rooms
+[2016-08-02 15:41:11.496] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 15:41:11.534] [INFO] booking - Request for all rooms
+[2016-08-02 15:43:46.442] [INFO] booking - App runs on  3000
+[2016-08-02 15:43:46.462] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 15:43:48.821] [INFO] booking - Connected to socket /#ZndROnP95FAPm769AAAA
+[2016-08-02 15:44:28.713] [INFO] booking - User with test4@chisw.com login
+[2016-08-02 15:44:30.751] [INFO] booking - Request for all rooms
+[2016-08-02 15:44:30.784] [INFO] booking - Connected to socket /#Tp0y1-eXAPw9fjtFAAAB
+[2016-08-02 15:45:16.934] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 15:45:16.970] [INFO] booking - Request for all rooms
+[2016-08-02 15:45:38.289] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 15:45:38.319] [INFO] booking - Request for all rooms
+[2016-08-02 15:45:48.635] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 15:45:48.694] [INFO] booking - Request for all rooms
+[2016-08-02 15:45:48.708] [INFO] booking - Request for all rooms
+[2016-08-02 15:46:01.556] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 15:46:01.590] [INFO] booking - Request for all rooms
+[2016-08-02 15:46:01.615] [INFO] booking - Request for all rooms
+[2016-08-02 15:46:25.553] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 15:46:25.593] [INFO] booking - Request for all rooms
+[2016-08-02 15:46:25.600] [INFO] booking - Request for all rooms
+[2016-08-02 15:46:25.625] [INFO] booking - Request for all rooms
+[2016-08-02 16:24:42.536] [INFO] booking - App runs on  3000
+[2016-08-02 16:24:42.567] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 16:24:52.985] [INFO] booking - Connected to socket /#oCw0I0irqc6LjJQsAAAA
+[2016-08-02 16:24:53.198] [INFO] booking - Request for all rooms
+[2016-08-02 16:25:00.829] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 16:25:00.895] [INFO] booking - Request for all rooms
+[2016-08-02 16:25:25.608] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 16:25:25.638] [INFO] booking - Request for all rooms
+[2016-08-02 16:28:43.117] [INFO] booking - User with test3@chisw.com login
+[2016-08-02 16:28:44.669] [INFO] booking - Connected to socket /#3KqgFvQOcO4Lcx8VAAAB
+[2016-08-02 16:28:44.670] [INFO] booking - Request for all rooms
+[2016-08-02 16:39:34.794] [INFO] booking - App runs on  3000
+[2016-08-02 16:39:34.875] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 16:45:32.282] [INFO] booking - Connected to socket /#JnYXQeoBMv_tJeU-AAAA
+[2016-08-02 16:45:32.390] [INFO] booking - Request for all rooms
+[2016-08-02 16:45:59.373] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 16:45:59.434] [INFO] booking - Request for all rooms
+[2016-08-02 16:52:32.195] [INFO] booking - User with test@chisw.com login
+[2016-08-02 16:52:32.329] [INFO] booking - Connected to socket /#IdRqgt5Nhutc6NLqAAAB
+[2016-08-02 16:52:32.341] [INFO] booking - Request for all rooms
+[2016-08-02 16:52:33.906] [INFO] booking - Connected to socket /#SaISEM1lLJrHOACUAAAC
+[2016-08-02 16:52:35.475] [INFO] booking - Connected to socket /#2igxi-LsgEHiXOtZAAAD
+[2016-08-02 16:52:38.144] [INFO] booking - Connected to socket /#OIXjnas8RxLvfCkXAAAE
+[2016-08-02 16:52:43.205] [INFO] booking - Connected to socket /#56Px4BUly5DCPC6xAAAF
+[2016-08-02 16:52:48.278] [INFO] booking - Connected to socket /#LFmsJ08WC5wr4_JVAAAG
+[2016-08-02 16:52:53.344] [INFO] booking - Connected to socket /#xOZ6Iq7y5tB5pVH-AAAH
+[2016-08-02 16:52:58.389] [INFO] booking - Connected to socket /#9P9-FJxmW0Kifg_fAAAI
+[2016-08-02 16:53:03.462] [INFO] booking - Connected to socket /#nNuzUqZHhdG5RSzBAAAJ
+[2016-08-02 16:53:08.533] [INFO] booking - Connected to socket /#9U25Y8lDGAVQbmHsAAAK
+[2016-08-02 16:53:13.592] [INFO] booking - Connected to socket /#nWKQ-ZCDW0RDFkCGAAAL
+[2016-08-02 16:53:18.692] [INFO] booking - Connected to socket /#3NDDfADdtom6cEvRAAAM
+[2016-08-02 16:53:23.768] [INFO] booking - Connected to socket /#zF6RoigSwmZcn1qvAAAN
+[2016-08-02 16:53:28.838] [INFO] booking - Connected to socket /#KZmQfMFLx5JpSFf7AAAO
+[2016-08-02 16:54:20.554] [INFO] booking - Connected to socket /#IH4Apahq5tT2ciSHAAAP
+[2016-08-02 16:54:25.636] [INFO] booking - Connected to socket /#PdemIgCdgKLu67j_AAAQ
+[2016-08-02 16:54:58.709] [INFO] booking - Connected to socket /#NuNpe2DyUA4uhGOeAAAR
+[2016-08-02 16:55:03.745] [INFO] booking - Connected to socket /#HXzo_40brTcuUlm6AAAS
+[2016-08-02 16:55:08.804] [INFO] booking - Connected to socket /#9zPQfxio8cU5Iv93AAAT
+[2016-08-02 16:55:13.855] [INFO] booking - Connected to socket /#JaPI20nnWXqkUF5bAAAU
+[2016-08-02 16:55:16.923] [INFO] booking - User with the test@chisw.com past token check
+[2016-08-02 16:55:18.908] [INFO] booking - Connected to socket /#scoCF9T0RXYkPa-uAAAV
+[2016-08-02 16:55:20.235] [INFO] booking - Connected to socket /#M_fzaR9rWFKl-Od4AAAW
+[2016-08-02 16:55:20.248] [INFO] booking - Request for all rooms
+[2016-08-02 16:55:20.972] [INFO] booking - Connected to socket /#x17dCjcbqhS8qBqIAAAX
+[2016-08-02 16:55:22.926] [INFO] booking - Connected to socket /#tR2fNCHWmJznNgVaAAAY
+[2016-08-02 16:55:23.939] [INFO] booking - Connected to socket /#m5YUlPWGoGl9dMKnAAAZ
+[2016-08-02 16:55:26.868] [INFO] booking - Connected to socket /#f_ova3AWD8Hecp8ZAAAa
+[2016-08-02 16:55:28.996] [INFO] booking - Connected to socket /#sf4SxDRlfdJMDNShAAAb
+[2016-08-02 16:55:31.066] [INFO] booking - Connected to socket /#duFAu6Qt8DwNi5roAAAc
+[2016-08-02 16:55:31.076] [INFO] booking - Request for all rooms
+[2016-08-02 16:55:31.741] [INFO] booking - Connected to socket /#5mlzEOny-xXM4LkxAAAd
+[2016-08-02 16:55:31.919] [INFO] booking - Connected to socket /#F7lUluAEy3hFxA8oAAAe
+[2016-08-02 16:55:34.055] [INFO] booking - Connected to socket /#tqwJhjm9mh_zcIC1AAAf
+[2016-08-02 16:55:34.367] [INFO] booking - Connected to socket /#bLaFyWBXrGDY6QxsAAAg
+[2016-08-02 16:55:36.962] [INFO] booking - Connected to socket /#kbqNBqbHoV-sdahFAAAh
+[2016-08-02 16:55:38.406] [INFO] booking - Connected to socket /#R2G98Buf89pg7dFNAAAi
+[2016-08-02 16:55:39.101] [INFO] booking - Connected to socket /#oykV-VagnJ6IYjC9AAAj
+[2016-08-02 16:55:42.017] [INFO] booking - Connected to socket /#R6vm7nnf7jwU-vMQAAAk
+[2016-08-02 16:55:43.457] [INFO] booking - Connected to socket /#yS_6l4tn7Kj0ZMObAAAl
+[2016-08-02 16:55:44.156] [INFO] booking - Connected to socket /#xK50IaUllLQ0-epKAAAm
+[2016-08-02 16:55:47.077] [INFO] booking - Connected to socket /#6Vr7vQX6Kf28EpyvAAAn
+[2016-08-02 16:55:48.519] [INFO] booking - Connected to socket /#wikpIkv83RQCktXeAAAo
+[2016-08-02 16:55:49.191] [INFO] booking - Connected to socket /#XXMx9w9eK1B3BynoAAAp
+[2016-08-02 16:55:52.150] [INFO] booking - Connected to socket /#UrRKsP32TR3Fz5haAAAq
+[2016-08-02 16:55:53.570] [INFO] booking - Connected to socket /#k0xMCQY_XlRMfIaUAAAr
+[2016-08-02 16:55:54.235] [INFO] booking - Connected to socket /#n7yxfrKy4IJ9o8N8AAAs
+[2016-08-02 16:55:57.209] [INFO] booking - Connected to socket /#HSbcPFMC5EJ-lXa5AAAt
+[2016-08-02 16:55:58.630] [INFO] booking - Connected to socket /#NURnKTWgmnq0pk-_AAAu
+[2016-08-02 16:55:59.289] [INFO] booking - Connected to socket /#nwFRQSp4k7576LFXAAAv
+[2016-08-02 16:56:02.297] [INFO] booking - Connected to socket /#uIXvjF13nNfFF94MAAAw
+[2016-08-02 16:56:03.697] [INFO] booking - Connected to socket /#ETTkgF-gbNyZgZkQAAAx
+[2016-08-02 16:56:04.336] [INFO] booking - Connected to socket /#8A2GDfF3ktnIsjTsAAAy
+[2016-08-02 16:56:07.410] [INFO] booking - Connected to socket /#YxddvDaS2OjUyBVIAAAz
+[2016-08-02 16:56:08.764] [INFO] booking - Connected to socket /#2kb8s3yXNdYfzwMtAAA0
+[2016-08-02 16:56:09.377] [INFO] booking - Connected to socket /#d-EoATFBzBAhSWNuAAA1
+[2016-08-02 16:56:12.473] [INFO] booking - Connected to socket /#dkiIYvgCcBWeXZaFAAA2
+[2016-08-02 16:56:13.826] [INFO] booking - Connected to socket /#jSXDZkyJweonUJ3HAAA3
+[2016-08-02 16:56:14.438] [INFO] booking - Connected to socket /#JUJtlEi5BMyyCgG_AAA4
+[2016-08-02 16:56:17.535] [INFO] booking - Connected to socket /#_3D4pSfhtQ0rbFVmAAA5
+[2016-08-02 16:56:18.895] [INFO] booking - Connected to socket /#rjyKgfrXJtADp4OWAAA6
+[2016-08-02 16:56:19.479] [INFO] booking - Connected to socket /#_ECFobPSJYJutlc9AAA7
+[2016-08-02 16:56:22.639] [INFO] booking - Connected to socket /#4OQqu12-VuY1SZZ6AAA8
+[2016-08-02 16:56:23.958] [INFO] booking - Connected to socket /#ofjkl9jWDLbEVJLJAAA9
+[2016-08-02 16:56:24.522] [INFO] booking - Connected to socket /#MX5X6ii1Cx_0GYG_AAA-
+[2016-08-02 16:56:29.380] [INFO] booking - App runs on  3000
+[2016-08-02 16:56:29.454] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 16:56:29.617] [INFO] booking - Connected to socket /#IeXug_igGOo5m5eHAAAA
+[2016-08-02 16:56:31.013] [INFO] booking - Connected to socket /#xSnNNk6DTD0WWwLkAAAB
+[2016-08-02 16:56:32.772] [INFO] booking - Connected to socket /#IZyCGadAfRWAeRt0AAAC
+[2016-08-02 16:56:34.046] [INFO] booking - Connected to socket /#JZU_85sykU1WwoLHAAAD
+[2016-08-02 16:56:34.658] [INFO] booking - Connected to socket /#F01l9ah8JgpcldWKAAAE
+[2016-08-02 16:56:55.824] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-02 16:56:55.882] [INFO] booking - Request for all rooms
+[2016-08-02 16:57:00.618] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 16:57:00.662] [INFO] booking - Request for all rooms
+[2016-08-02 16:57:00.673] [INFO] booking - Request for all rooms
+[2016-08-02 17:05:49.020] [INFO] booking - App runs on  3000
+[2016-08-02 17:05:49.043] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 17:05:51.108] [INFO] booking - Connected to socket /#dNdJEmUuWejQdfSZAAAA
+[2016-08-02 17:06:11.734] [INFO] booking - Connected to socket /#pDzQKG0dMrdrTz8WAAAB
+[2016-08-02 17:06:11.795] [INFO] booking - Request for all rooms
+[2016-08-02 17:11:58.718] [INFO] booking - Connected to socket /#oMiJBQY_y8GKMwKVAAAC
+[2016-08-02 17:11:59.350] [INFO] booking - Request for all rooms
+[2016-08-02 17:12:41.647] [INFO] booking - App runs on  3000
+[2016-08-02 17:12:41.668] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 17:12:43.448] [INFO] booking - Connected to socket /#Kt1YWJv-6-N7OfQfAAAA
+[2016-08-02 17:12:46.832] [INFO] booking - Connected to socket /#5uSMpkj0gE7hEsKPAAAB
+[2016-08-02 17:12:47.173] [INFO] booking - Request for all rooms
+[2016-08-02 17:14:32.184] [INFO] booking - App runs on  3000
+[2016-08-02 17:14:32.205] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 17:14:34.235] [INFO] booking - Connected to socket /#8FSsBX5J4l9GP7ODAAAA
+[2016-08-02 17:14:41.241] [INFO] booking - Connected to socket /#ftlp_wM3n3lZ5zXDAAAB
+[2016-08-02 17:15:11.590] [INFO] booking - User with test@chisw.com login
+[2016-08-02 17:15:13.854] [INFO] booking - Request for all rooms
+[2016-08-02 17:16:56.112] [INFO] booking - Connected to socket /#NjpiVH5s--do4DtbAAAC
+[2016-08-02 17:17:11.696] [INFO] booking - User with test@chisw.com login
+[2016-08-02 17:17:13.977] [INFO] booking - Request for all rooms
+[2016-08-02 17:17:41.684] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 17:17:41.721] [INFO] booking - Request for all rooms
+[2016-08-02 17:17:52.245] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 17:17:52.275] [INFO] booking - Request for all rooms
+[2016-08-02 17:17:58.559] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 17:17:58.621] [INFO] booking - Request for all rooms
+[2016-08-02 17:17:58.636] [INFO] booking - Request for all rooms
+[2016-08-02 17:18:07.589] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 17:18:07.632] [INFO] booking - Request for all rooms
+[2016-08-02 17:18:07.646] [INFO] booking - Request for all rooms
+[2016-08-02 17:19:16.450] [INFO] booking - Connected to socket /#MMKWY1bj8r1gIZbfAAAD
+[2016-08-02 17:19:17.102] [INFO] booking - Request for all rooms
+[2016-08-02 17:20:06.164] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 17:20:06.217] [INFO] booking - Request for all rooms
+[2016-08-02 17:24:07.320] [INFO] booking - Connected to socket /#__gDkmwUbBqTYIotAAAE
+[2016-08-02 17:30:14.717] [INFO] booking - App runs on  3000
+[2016-08-02 17:30:14.762] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 17:30:19.718] [INFO] booking - Connected to socket /#hobuRvktHA7RS-n5AAAA
+[2016-08-02 17:30:21.049] [INFO] booking - Connected to socket /#_QLec-eQeUYzR5BQAAAB
+[2016-08-02 17:30:24.072] [INFO] booking - Connected to socket /#dlHB6vbG_-Ppyhn9AAAC
+[2016-08-02 17:30:28.764] [INFO] booking - Connected to socket /#XtByg2_-DaO9v6CiAAAD
+[2016-08-02 17:30:33.833] [INFO] booking - Connected to socket /#JkFZQAJuJOjK9SGOAAAE
+[2016-08-02 17:30:38.893] [INFO] booking - Connected to socket /#I7DN9N59MwFSTLiCAAAF
+[2016-08-02 17:30:43.959] [INFO] booking - Connected to socket /#w2BbJw5Z--b4-7FJAAAG
+[2016-08-02 17:30:49.036] [INFO] booking - Connected to socket /#b5KClC4R-v4YEevnAAAH
+[2016-08-02 17:30:54.161] [INFO] booking - Connected to socket /#h6lnbizLWd3jCFzHAAAI
+[2016-08-02 17:30:59.215] [INFO] booking - Connected to socket /#6LU9eSxNe74dQPSiAAAJ
+[2016-08-02 17:31:04.266] [INFO] booking - Connected to socket /#5TWwuTg9eZxySiNrAAAK
+[2016-08-02 17:31:07.532] [ERROR] booking - User with current email not Found or bad password
+[2016-08-02 17:31:09.305] [INFO] booking - Connected to socket /#yuj2wxfCYnsegOYDAAAL
+[2016-08-02 17:31:14.343] [INFO] booking - Connected to socket /#0edZSf30gDMK4ESeAAAM
+[2016-08-02 17:31:18.478] [INFO] booking - User with test@chisw.com login
+[2016-08-02 17:31:18.649] [INFO] booking - Request for all rooms
+[2016-08-02 17:31:19.385] [INFO] booking - Connected to socket /#Vi_xO79FpUA2q2HnAAAN
+[2016-08-02 17:31:24.427] [INFO] booking - Connected to socket /#uJoIaS-tPs7Udej8AAAO
+[2016-08-02 17:31:29.473] [INFO] booking - Connected to socket /#QKuj2p4ASd8dgYsfAAAP
+[2016-08-02 17:31:34.536] [INFO] booking - Connected to socket /#urynIQhDGyj53h44AAAQ
+[2016-08-02 17:31:37.652] [INFO] booking - User with the test@chisw.com past token check
+[2016-08-02 17:31:39.617] [INFO] booking - Connected to socket /#eKfhrFqzWw643GXHAAAR
+[2016-08-02 17:31:44.652] [INFO] booking - Connected to socket /#tTRtP1U1BV6-D1XQAAAS
+[2016-08-02 17:31:46.504] [INFO] booking - Request for all rooms
+[2016-08-02 17:31:49.697] [INFO] booking - Connected to socket /#0BTyvrsfDFvP7HEqAAAT
+[2016-08-02 17:31:54.757] [INFO] booking - Connected to socket /#632R_tPBkDVZYxd-AAAU
+[2016-08-02 17:31:59.818] [INFO] booking - Connected to socket /#dcZqu1JM2hIJM7bzAAAV
+[2016-08-02 17:32:02.509] [INFO] booking - User with the test@chisw.com past token check
+[2016-08-02 17:32:04.771] [INFO] booking - Request for all rooms
+[2016-08-02 17:32:04.974] [INFO] booking - Connected to socket /#cYYiQUgnCXyR6JfCAAAW
+[2016-08-02 17:32:10.029] [INFO] booking - Connected to socket /#hxSXvDbw-_pmLp3aAAAX
+[2016-08-02 17:32:15.074] [INFO] booking - Connected to socket /#xUfsdtZAD1e5GfeuAAAY
+[2016-08-02 17:32:20.124] [INFO] booking - Connected to socket /#Zpr3_6zNQeeS6BYjAAAZ
+[2016-08-02 17:53:17.237] [INFO] booking - App runs on  3000
+[2016-08-02 17:53:17.258] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 17:56:10.018] [INFO] booking - Connected to socket /#m4jWEOD2imuyQBuJAAAA
+[2016-08-02 17:56:10.744] [INFO] booking - Request for all rooms
+[2016-08-02 17:56:46.492] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 17:56:46.515] [INFO] booking - Request for all rooms
+[2016-08-02 18:01:47.309] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-02 18:01:47.335] [INFO] booking - Request for all rooms
+[2016-08-02 18:12:32.117] [INFO] booking - App runs on  3000
+[2016-08-02 18:12:32.299] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-02 18:21:07.649] [INFO] booking - Connected to socket /#lXSOnbcKSBNl6NNEAAAA
+[2016-08-02 18:21:08.883] [INFO] booking - Connected to socket /#uIPSFMorXjECs8c3AAAB
+[2016-08-02 18:21:11.126] [INFO] booking - Connected to socket /#kx8EHFhkC3af2xQOAAAC
+[2016-08-02 18:21:14.316] [INFO] booking - Connected to socket /#_ry-FzDDwWe5N7a0AAAD
+[2016-08-02 18:21:19.409] [INFO] booking - Connected to socket /#fbZS-OMj0rhDKwRxAAAE
+[2016-08-02 18:21:24.497] [INFO] booking - Connected to socket /#CSl03hJ5ikyj4ng_AAAF
+[2016-08-02 18:21:29.571] [INFO] booking - Connected to socket /#4oZZgP5kMj3l99e2AAAG
+[2016-08-02 18:21:34.628] [INFO] booking - Connected to socket /#lmuqEksWwMgFW1RWAAAH
+[2016-08-02 18:21:39.712] [INFO] booking - Connected to socket /#TXkri2ahynQb6WRLAAAI
+[2016-08-02 18:21:44.793] [INFO] booking - Connected to socket /#Hqh67Lwpi3m3lGPgAAAJ
+[2016-08-02 18:21:49.852] [INFO] booking - Connected to socket /#u7gI1BbRoeAXE9DNAAAK
+[2016-08-02 18:21:54.915] [INFO] booking - Connected to socket /#w5OaCCzrnnE8M7lvAAAL
+[2016-08-02 18:21:59.975] [INFO] booking - Connected to socket /#hOGB8xW5uodqAMddAAAM
+[2016-08-02 18:22:05.027] [INFO] booking - Connected to socket /#b9a8OTg0skZGIpPdAAAN
+[2016-08-03 10:57:22.843] [INFO] booking - App runs on  3000
+[2016-08-03 10:57:22.934] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 11:01:01.888] [INFO] booking - Connected to socket /#m3iauAOn8pX7_YlxAAAA
+[2016-08-03 11:01:03.008] [INFO] booking - Request for all rooms
+[2016-08-03 11:01:19.662] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 11:01:19.688] [INFO] booking - Request for all rooms
+[2016-08-03 11:01:25.621] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 11:01:25.643] [INFO] booking - Request for all rooms
+[2016-08-03 11:05:49.348] [INFO] booking - Connected to socket /#C0-5O_dLiQ_O_YnmAAAB
+[2016-08-03 11:06:17.049] [INFO] booking - User with test@chisw.com login
+[2016-08-03 11:06:17.605] [INFO] booking - Request for all rooms
+[2016-08-03 11:10:23.429] [INFO] booking - User with the test@chisw.com past token check
+[2016-08-03 11:10:29.762] [INFO] booking - Request for all rooms
+[2016-08-03 11:10:44.491] [INFO] booking - Request for all rooms
+[2016-08-03 11:14:57.069] [INFO] booking - Connected to socket /#5BEVM5c5fC4kUNHyAAAC
+[2016-08-03 11:14:57.849] [INFO] booking - Request for all rooms
+[2016-08-03 11:16:04.253] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 11:16:04.341] [INFO] booking - Request for all rooms
+[2016-08-03 11:18:51.952] [INFO] booking - Connected to socket /#xFi3Flr1xScGy7gaAAAD
+[2016-08-03 11:18:52.552] [INFO] booking - Request for all rooms
+[2016-08-03 11:19:08.029] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 11:19:08.102] [INFO] booking - Request for all rooms
+[2016-08-03 11:19:46.089] [INFO] booking - App runs on  3000
+[2016-08-03 11:19:46.161] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 11:20:43.139] [INFO] booking - User with test@chisw.com login
+[2016-08-03 11:20:45.481] [INFO] booking - Request for all rooms
+[2016-08-03 11:24:45.745] [INFO] booking - Connected to socket /#VccG93QDDzIIVKBoAAAA
+[2016-08-03 11:24:46.561] [INFO] booking - Request for all rooms
+[2016-08-03 11:24:52.218] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 11:24:52.256] [INFO] booking - Request for all rooms
+[2016-08-03 11:25:41.053] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 11:25:41.081] [INFO] booking - Request for all rooms
+[2016-08-03 11:25:51.553] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 11:25:51.590] [INFO] booking - Request for all rooms
+[2016-08-03 11:25:51.609] [INFO] booking - Request for all rooms
+[2016-08-03 11:26:26.392] [INFO] booking - App runs on  3000
+[2016-08-03 11:26:26.424] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 11:30:37.961] [INFO] booking - Connected to socket /#Wkic7ei39h0JQ1xNAAAA
+[2016-08-03 11:31:02.774] [INFO] booking - User with test2@chisw.com login
+[2016-08-03 11:31:03.408] [INFO] booking - Request for all rooms
+[2016-08-03 11:31:32.869] [INFO] booking - User with the test2@chisw.com past token check
+[2016-08-03 11:31:45.375] [INFO] booking - Request for all rooms
+[2016-08-03 11:31:57.518] [INFO] booking - Request for all rooms
+[2016-08-03 11:32:14.941] [INFO] booking - Request for all rooms
+[2016-08-03 11:33:08.340] [INFO] booking - Request for all rooms
+[2016-08-03 12:09:08.357] [INFO] booking - Connected to socket /#xN447LKbeAMWhIupAAAB
+[2016-08-03 12:09:08.913] [INFO] booking - Request for all rooms
+[2016-08-03 12:09:44.207] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 12:09:44.240] [INFO] booking - Request for all rooms
+[2016-08-03 12:09:56.540] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 12:09:56.592] [INFO] booking - Request for all rooms
+[2016-08-03 12:10:03.470] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 12:10:03.515] [INFO] booking - Request for all rooms
+[2016-08-03 12:10:03.521] [INFO] booking - Request for all rooms
+[2016-08-03 12:10:43.926] [INFO] booking - Connected to socket /#IyPnsbMOdXE4dK4yAAAC
+[2016-08-03 12:10:44.676] [INFO] booking - Request for all rooms
+[2016-08-03 12:10:52.214] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 12:10:52.237] [INFO] booking - Request for all rooms
+[2016-08-03 12:12:45.008] [INFO] booking - Connected to socket /#_ju4CnpEVGfm6X2vAAAD
+[2016-08-03 12:12:45.432] [INFO] booking - Request for all rooms
+[2016-08-03 12:12:50.869] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 12:12:50.902] [INFO] booking - Request for all rooms
+[2016-08-03 12:12:59.052] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 12:12:59.092] [INFO] booking - Request for all rooms
+[2016-08-03 12:17:55.242] [INFO] booking - App runs on  3000
+[2016-08-03 12:17:55.391] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 12:18:13.472] [INFO] booking - User with test2@chisw.com login
+[2016-08-03 12:18:13.718] [INFO] booking - Request for all rooms
+[2016-08-03 12:21:06.202] [INFO] booking - Connected to socket /#uF0PxvjGpIWhQPwJAAAA
+[2016-08-03 12:21:06.757] [INFO] booking - Request for all rooms
+[2016-08-03 12:21:15.067] [INFO] booking - User 579f1c8b6c4d5a858014bcbd now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 12:21:15.115] [INFO] booking - Request for all rooms
+[2016-08-03 12:21:36.683] [INFO] booking - Connected to socket /#83aimEYOELAcfkdSAAAB
+[2016-08-03 12:21:37.170] [INFO] booking - Request for all rooms
+[2016-08-03 12:22:01.046] [INFO] booking - User 579f1c8b6c4d5a858014bcbd stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 12:22:01.075] [INFO] booking - Request for all rooms
+[2016-08-03 12:27:30.050] [INFO] booking - App runs on  3000
+[2016-08-03 12:27:30.071] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 12:27:46.379] [INFO] booking - Connected to socket /#c9MyDlEBETlovB8xAAAA
+[2016-08-03 12:27:46.958] [INFO] booking - Request for all rooms
+[2016-08-03 12:27:51.100] [INFO] booking - Connected to socket /#nqjx4vd5Fl3o-oz_AAAB
+[2016-08-03 12:27:51.438] [INFO] booking - Request for all rooms
+[2016-08-03 12:29:04.396] [INFO] booking - Connected to socket /#3so7PPunPMn9xrH8AAAC
+[2016-08-03 12:29:05.268] [INFO] booking - Request for all rooms
+[2016-08-03 12:29:44.421] [INFO] booking - User with test3@chisw.com login
+[2016-08-03 12:29:46.142] [INFO] booking - Request for all rooms
+[2016-08-03 12:31:21.409] [INFO] booking - Request for all rooms
+[2016-08-03 12:31:41.147] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 12:31:41.167] [INFO] booking - Request for all rooms
+[2016-08-03 12:31:53.461] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 12:31:53.487] [INFO] booking - Request for all rooms
+[2016-08-03 12:34:04.608] [INFO] booking - App runs on  3000
+[2016-08-03 12:34:04.627] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 12:38:13.158] [INFO] booking - Connected to socket /#Fz-yMobgonj0DMO3AAAA
+[2016-08-03 12:38:36.842] [INFO] booking - User with test@chisw.com login
+[2016-08-03 12:38:37.067] [INFO] booking - Request for all rooms
+[2016-08-03 12:39:11.384] [INFO] booking - Request for all rooms
+[2016-08-03 12:40:26.169] [INFO] booking - User with the test@chisw.com past token check
+[2016-08-03 13:00:30.648] [INFO] booking - App runs on  3000
+[2016-08-03 13:00:30.786] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 13:00:54.049] [INFO] booking - Connected to socket /#TWg9SgtnaCTZDmrRAAAA
+[2016-08-03 13:00:55.627] [INFO] booking - Connected to socket /#nxs8MlnTLAh2QUObAAAB
+[2016-08-03 13:00:58.036] [INFO] booking - Connected to socket /#cqHrx3zVD_02xzLyAAAC
+[2016-08-03 13:01:02.775] [INFO] booking - Connected to socket /#RkTatEmICU27uQWsAAAD
+[2016-08-03 13:01:07.880] [INFO] booking - Connected to socket /#S3wPsI07pwRk-q8AAAAE
+[2016-08-03 13:01:12.954] [INFO] booking - Connected to socket /#MpYjmkyEDs29V-qjAAAF
+[2016-08-03 13:01:18.012] [INFO] booking - Connected to socket /#bTq0nH7Zcg2GTV_NAAAG
+[2016-08-03 13:01:23.056] [INFO] booking - Connected to socket /#f3cL9KZ5DwWL9yZXAAAH
+[2016-08-03 13:01:28.110] [INFO] booking - Connected to socket /#cCdg2eqG0TulruPYAAAI
+[2016-08-03 13:01:33.144] [INFO] booking - Connected to socket /#4MdUW7ks35RurhcIAAAJ
+[2016-08-03 13:01:38.219] [INFO] booking - Connected to socket /#3NoI-NdrVp0keBptAAAK
+[2016-08-03 13:01:43.263] [INFO] booking - Connected to socket /#u003cRTnNGBDqLGFAAAL
+[2016-08-03 13:01:48.343] [INFO] booking - Connected to socket /#SgaUW47x4QjiDQymAAAM
+[2016-08-03 13:01:53.415] [INFO] booking - Connected to socket /#VD-gNTYGVa4A8miTAAAN
+[2016-08-03 13:01:58.457] [INFO] booking - Connected to socket /#Mz4xQYHVXvf4RWqwAAAO
+[2016-08-03 13:02:03.559] [INFO] booking - Connected to socket /#ZHxko6qoAgmUYMtrAAAP
+[2016-08-03 13:02:08.649] [INFO] booking - Connected to socket /#NPmY2zfb0eiHV6XmAAAQ
+[2016-08-03 13:02:11.199] [INFO] booking - User with test@chisw.com login
+[2016-08-03 13:02:11.486] [INFO] booking - Request for all rooms
+[2016-08-03 13:02:13.729] [INFO] booking - Connected to socket /#GNlEnAtUoKk-MxWcAAAR
+[2016-08-03 13:02:18.819] [INFO] booking - Connected to socket /#4QaJWPv7Iv4rZ1T5AAAS
+[2016-08-03 13:02:23.899] [INFO] booking - Connected to socket /#rKdzwDDRg73leWPyAAAT
+[2016-08-03 13:02:29.049] [INFO] booking - Connected to socket /#P9DXxVMcl5hq8FTKAAAU
+[2016-08-03 13:02:34.084] [INFO] booking - Connected to socket /#LH_Uptuql_lsVagVAAAV
+[2016-08-03 13:02:39.104] [INFO] booking - Connected to socket /#IzQkP5pcmkNdwJ3SAAAW
+[2016-08-03 13:02:44.149] [INFO] booking - Connected to socket /#e4GBEFU1fWIbdpJkAAAX
+[2016-08-03 13:02:49.226] [INFO] booking - Connected to socket /#X_OuxIJmgXqC24NxAAAY
+[2016-08-03 13:02:54.268] [INFO] booking - Connected to socket /#1om0QhwkSCTjKqbKAAAZ
+[2016-08-03 13:02:59.341] [INFO] booking - Connected to socket /#adb94cCXqBNVJTtyAAAa
+[2016-08-03 13:03:06.730] [INFO] booking - App runs on  3000
+[2016-08-03 13:03:06.752] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 13:03:09.869] [INFO] booking - Connected to socket /#kbRwjm8NX6IwozkGAAAA
+[2016-08-03 13:03:10.680] [INFO] booking - Request for all rooms
+[2016-08-03 13:03:14.926] [INFO] booking - Connected to socket /#VkHmcpFTsGblVdpSAAAB
+[2016-08-03 13:03:19.994] [INFO] booking - Connected to socket /#nCZHgRLUunzWJrZfAAAC
+[2016-08-03 13:03:25.043] [INFO] booking - Connected to socket /#eDVZ4bhfbEltHH0RAAAD
+[2016-08-03 13:03:28.747] [INFO] booking - Request for all rooms
+[2016-08-03 13:03:30.079] [INFO] booking - Connected to socket /#gu-zgLJUDOf1NtkMAAAE
+[2016-08-03 13:03:35.173] [INFO] booking - Connected to socket /#5yNiFCbd-HCHzMmDAAAF
+[2016-08-03 13:03:40.246] [INFO] booking - Connected to socket /#G0SPozmHHrkJlsVrAAAG
+[2016-08-03 13:03:45.323] [INFO] booking - Connected to socket /#7Op0xfAoVqlxmKlrAAAH
+[2016-08-03 13:03:50.400] [INFO] booking - Connected to socket /#Rr9OhHxnyI5EJ2o4AAAI
+[2016-08-03 13:03:55.467] [INFO] booking - Connected to socket /#MKr4W_BySxSSjs1cAAAJ
+[2016-08-03 13:04:00.561] [INFO] booking - Connected to socket /#lDW15LjNutZMQP4eAAAK
+[2016-08-03 13:04:05.700] [INFO] booking - Connected to socket /#4dmqsn9naIu0KKnuAAAL
+[2016-08-03 13:04:10.892] [INFO] booking - Connected to socket /#lTqPLBJbQrTTv3_hAAAM
+[2016-08-03 13:04:15.952] [INFO] booking - Connected to socket /#RYHGysnI8a-kB3QOAAAN
+[2016-08-03 13:04:20.996] [INFO] booking - Connected to socket /#4XmyWwZBpgSZ58GPAAAO
+[2016-08-03 13:04:26.052] [INFO] booking - Connected to socket /#9xkQ3baQk4fqnNV1AAAP
+[2016-08-03 13:04:31.114] [INFO] booking - Connected to socket /#oufSM8-JbbIOLNHqAAAQ
+[2016-08-03 13:04:36.155] [INFO] booking - Connected to socket /#rzlAsyPD05bsTP9RAAAR
+[2016-08-03 13:04:41.217] [INFO] booking - Connected to socket /#loOLmcQGmyhHhqpBAAAS
+[2016-08-03 13:04:46.290] [INFO] booking - Connected to socket /#km4tSyTrltjwvCwfAAAT
+[2016-08-03 13:04:51.351] [INFO] booking - Connected to socket /#pZIXM8CO9l19DIhdAAAU
+[2016-08-03 13:14:37.375] [INFO] booking - Connected to socket /#dAKrpMonw_ETBZ3uAAAV
+[2016-08-03 13:14:38.854] [INFO] booking - Connected to socket /#hpW5wZ86nPUaWq9rAAAW
+[2016-08-03 13:14:40.273] [INFO] booking - Connected to socket /#BXppPMWgcQhpfQXGAAAX
+[2016-08-03 13:14:42.789] [INFO] booking - Connected to socket /#6XhnDWYsLWipP5cCAAAY
+[2016-08-03 13:14:47.807] [INFO] booking - Connected to socket /#fgrneEe4L7Hdl4GxAAAZ
+[2016-08-03 13:14:52.851] [INFO] booking - Connected to socket /#ZNf5DGkLHcrqqyrcAAAa
+[2016-08-03 13:14:57.873] [INFO] booking - Connected to socket /#OK4iMGaQ6ketMN9CAAAb
+[2016-08-03 13:15:02.891] [INFO] booking - Connected to socket /#i5C5Vc0exvIGpg9VAAAc
+[2016-08-03 13:15:05.556] [INFO] booking - Connected to socket /#3r6dhDESQq4eyHSmAAAd
+[2016-08-03 13:15:07.905] [INFO] booking - Connected to socket /#ZfAWpc9riTXrd3dQAAAe
+[2016-08-03 13:15:10.614] [INFO] booking - Connected to socket /#uSZoQjf3dP3BcGbyAAAf
+[2016-08-03 13:15:11.771] [INFO] booking - Request for all rooms
+[2016-08-03 13:15:12.942] [INFO] booking - Connected to socket /#Sy2CbpRuy1yFg5MSAAAg
+[2016-08-03 13:15:17.956] [INFO] booking - Connected to socket /#2Lr9Uk3RyFVM11kiAAAh
+[2016-08-03 13:15:22.977] [INFO] booking - Connected to socket /#nimtKf-SYttjpJVdAAAi
+[2016-08-03 13:15:28.007] [INFO] booking - Connected to socket /#UIYDyhVyubW2j_sRAAAj
+[2016-08-03 13:15:33.025] [INFO] booking - Connected to socket /#THJ-zS1nONZtYIRnAAAk
+[2016-08-03 13:15:35.170] [INFO] booking - App runs on  3000
+[2016-08-03 13:15:35.203] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 13:16:59.553] [INFO] booking - Connected to socket /#4c1B6dK86pwoP0UGAAAA
+[2016-08-03 13:17:01.105] [INFO] booking - Connected to socket /#LOm4yBlMIxZ40Ni8AAAB
+[2016-08-03 13:17:03.448] [INFO] booking - Connected to socket /#zFtQ-LQSZhl0sedsAAAC
+[2016-08-03 13:17:07.354] [INFO] booking - Connected to socket /#Q1FKrjOdgo3QFobpAAAD
+[2016-08-03 13:17:12.381] [INFO] booking - Connected to socket /#W0m1L5ywfzPVLHJKAAAE
+[2016-08-03 13:17:17.417] [INFO] booking - Connected to socket /#ZCj1zhQg59mHovtVAAAF
+[2016-08-03 13:17:22.432] [INFO] booking - Connected to socket /#4ChU8zd1I6NGDoFOAAAG
+[2016-08-03 13:17:33.833] [INFO] booking - Connected to socket /#F-nus51wAkhDPUAVAAAH
+[2016-08-03 13:18:37.727] [INFO] booking - Connected to socket /#4RyPQlvsuTg3_GjoAAAI
+[2016-08-03 13:18:37.777] [INFO] booking - Request for all rooms
+[2016-08-03 13:19:03.601] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 13:19:58.563] [INFO] booking - Connected to socket /#1AXlTqLQSYhnrqZwAAAJ
+[2016-08-03 13:19:58.586] [INFO] booking - Request for all rooms
+[2016-08-03 13:20:04.321] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 13:20:04.387] [INFO] booking - Request for all rooms
+[2016-08-03 13:20:14.125] [INFO] booking - Request for all rooms
+[2016-08-03 13:20:14.137] [INFO] booking - Connected to socket /#hXb5Y84IPjdOGRAlAAAK
+[2016-08-03 13:20:20.567] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 13:20:20.657] [INFO] booking - Request for all rooms
+[2016-08-03 13:20:26.055] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 13:20:26.124] [INFO] booking - Request for all rooms
+[2016-08-03 13:20:26.127] [INFO] booking - Request for all rooms
+[2016-08-03 13:21:11.791] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 13:26:37.783] [INFO] booking - App runs on  3000
+[2016-08-03 13:26:37.864] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 13:27:24.718] [INFO] booking - User with test@chisw.com login
+[2016-08-03 13:27:24.935] [INFO] booking - Connected to socket /#V-XtjRGYoiWrXA6sAAAA
+[2016-08-03 13:27:24.976] [INFO] booking - Request for all rooms
+[2016-08-03 13:28:29.581] [INFO] booking - User with test@chisw.com login
+[2016-08-03 13:28:29.664] [INFO] booking - Connected to socket /#1Bl47c_GJj1hBJt_AAAB
+[2016-08-03 13:28:29.676] [INFO] booking - Request for all rooms
+[2016-08-03 13:38:10.600] [INFO] booking - App runs on  3000
+[2016-08-03 13:38:10.620] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 13:39:33.483] [INFO] booking - Connected to socket /#BUQnJhOzv1zNSOTJAAAA
+[2016-08-03 13:39:33.636] [INFO] booking - Request for all rooms
+[2016-08-03 13:39:44.232] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 13:39:44.272] [INFO] booking - Request for all rooms
+[2016-08-03 13:39:49.628] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 13:39:49.651] [INFO] booking - Request for all rooms
+[2016-08-03 13:39:55.138] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 13:39:58.483] [INFO] booking - Request for all rooms
+[2016-08-03 13:39:58.499] [INFO] booking - Connected to socket /#ldL0l_oJxNpu2GsbAAAB
+[2016-08-03 13:40:51.253] [INFO] booking - Connected to socket /#MTt6eOHm_1D_It6RAAAC
+[2016-08-03 13:40:51.262] [INFO] booking - Request for all rooms
+[2016-08-03 13:40:57.042] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 13:40:57.059] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:01.454] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:01.477] [INFO] booking - Connected to socket /#DzJ4a3XHQfp6bJe1AAAD
+[2016-08-03 13:41:06.060] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 13:41:06.103] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:11.718] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 13:41:11.735] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:16.221] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 13:41:16.238] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:16.250] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:20.139] [INFO] booking - disconnected from socket /#BUQnJhOzv1zNSOTJAAAA
+[2016-08-03 13:41:24.873] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 13:41:24.896] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:24.898] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:35.088] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 13:41:35.112] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:35.114] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:35.135] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:44.487] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a3
+[2016-08-03 13:41:44.517] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:44.528] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:44.528] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:44.534] [INFO] booking - Request for all rooms
+[2016-08-03 13:41:50.884] [INFO] booking - disconnected from socket /#ldL0l_oJxNpu2GsbAAAB
+[2016-08-03 13:41:51.503] [INFO] booking - User with the test3@chisw.com past token check
+[2016-08-03 13:41:51.506] [WARN] booking - There are no meetings to user 579f1c8b6c4d5a858014bcbe to check a the time 2016-08-03T13:41:51+03:00
+[2016-08-03 13:41:51.559] [INFO] booking - User test3@chisw.com add new meeting from 2016-08-03T13:41:51+03:00 to 2016-08-03T13:51:51+03:00
+[2016-08-03 13:41:56.026] [INFO] booking - Request for all rooms
+[2016-08-03 13:42:11.621] [INFO] booking - User with the test3@chisw.com past token check
+[2016-08-03 13:42:11.663] [INFO] booking - User with ID 579f1c8b6c4d5a858014bcbe delete his current meeting from main screen
+[2016-08-03 13:42:14.475] [INFO] booking - Request for all rooms
+[2016-08-03 13:42:22.007] [INFO] booking - disconnected from socket /#MTt6eOHm_1D_It6RAAAC
+[2016-08-03 13:42:31.389] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-03 13:42:31.429] [INFO] booking - Request for all rooms
+[2016-08-03 13:42:31.432] [INFO] booking - Request for all rooms
+[2016-08-03 13:42:31.434] [INFO] booking - Request for all rooms
+[2016-08-03 13:43:16.832] [INFO] booking - disconnected from socket /#DzJ4a3XHQfp6bJe1AAAD
+[2016-08-03 13:43:54.734] [INFO] booking - Connected to socket /#Vli7Zsw-J56QvaGZAAAE
+[2016-08-03 13:43:54.798] [INFO] booking - Request for all rooms
+[2016-08-03 14:01:30.296] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 14:01:30.513] [INFO] booking - Request for all rooms
+[2016-08-03 14:10:00.386] [INFO] booking - User with test@chisw.com login
+[2016-08-03 14:10:00.615] [INFO] booking - Connected to socket /#bnl1IsgZRRjEq1n8AAAF
+[2016-08-03 14:10:00.641] [INFO] booking - Request for all rooms
+[2016-08-03 14:10:02.090] [INFO] booking - Connected to socket /#-JCf3BWOVu0K9LcIAAAG
+[2016-08-03 14:10:03.834] [INFO] booking - Connected to socket /#aADr54-ke6wfxTQfAAAH
+[2016-08-03 14:10:06.685] [INFO] booking - Connected to socket /#-_9jvDLsQGJ0aGPbAAAI
+[2016-08-03 14:10:11.760] [INFO] booking - Connected to socket /#ycRu5DOiuvj8ht3VAAAJ
+[2016-08-03 14:10:16.825] [INFO] booking - Connected to socket /#LzfrUCCEsAfT1Kf6AAAK
+[2016-08-03 14:10:21.877] [INFO] booking - Connected to socket /#b6JJYe94JJV5aF45AAAL
+[2016-08-03 14:10:26.948] [INFO] booking - Connected to socket /#pJKeEUzI2hqUks6kAAAM
+[2016-08-03 14:10:29.030] [INFO] booking - User with the test@chisw.com past token check
+[2016-08-03 14:10:31.989] [INFO] booking - Connected to socket /#-FBX9n_Suft67D1_AAAN
+[2016-08-03 14:10:37.052] [INFO] booking - Connected to socket /#CUlW9mhWm54KWn5lAAAO
+[2016-08-03 14:10:42.122] [INFO] booking - Connected to socket /#mz-6630iblKgaHKxAAAP
+[2016-08-03 14:10:51.023] [INFO] booking - Connected to socket /#0v14neQPa3HgBPm6AAAQ
+[2016-08-03 14:10:51.047] [INFO] booking - Request for all rooms
+[2016-08-03 14:10:51.980] [INFO] booking - Connected to socket /#VNt6fGkyULhiuJQXAAAR
+[2016-08-03 14:11:04.847] [INFO] booking - Connected to socket /#ZQkCnt90_z53gdw6AAAS
+[2016-08-03 14:11:04.848] [INFO] booking - Request for all rooms
+[2016-08-03 14:11:05.824] [INFO] booking - Connected to socket /#9hQSNFvPCweOTx6IAAAT
+[2016-08-03 14:11:25.615] [INFO] booking - disconnected from socket /#bnl1IsgZRRjEq1n8AAAF
+[2016-08-03 14:11:27.089] [INFO] booking - disconnected from socket /#-JCf3BWOVu0K9LcIAAAG
+[2016-08-03 14:11:28.834] [INFO] booking - disconnected from socket /#aADr54-ke6wfxTQfAAAH
+[2016-08-03 14:11:31.687] [INFO] booking - disconnected from socket /#-_9jvDLsQGJ0aGPbAAAI
+[2016-08-03 14:11:36.764] [INFO] booking - disconnected from socket /#ycRu5DOiuvj8ht3VAAAJ
+[2016-08-03 14:11:41.829] [INFO] booking - disconnected from socket /#LzfrUCCEsAfT1Kf6AAAK
+[2016-08-03 14:11:46.877] [INFO] booking - disconnected from socket /#b6JJYe94JJV5aF45AAAL
+[2016-08-03 14:11:51.953] [INFO] booking - disconnected from socket /#pJKeEUzI2hqUks6kAAAM
+[2016-08-03 14:11:56.989] [INFO] booking - disconnected from socket /#-FBX9n_Suft67D1_AAAN
+[2016-08-03 14:12:02.051] [INFO] booking - disconnected from socket /#CUlW9mhWm54KWn5lAAAO
+[2016-08-03 14:12:07.121] [INFO] booking - disconnected from socket /#mz-6630iblKgaHKxAAAP
+[2016-08-03 14:12:16.026] [INFO] booking - disconnected from socket /#0v14neQPa3HgBPm6AAAQ
+[2016-08-03 14:12:16.980] [INFO] booking - disconnected from socket /#VNt6fGkyULhiuJQXAAAR
+[2016-08-03 14:12:29.850] [INFO] booking - disconnected from socket /#ZQkCnt90_z53gdw6AAAS
+[2016-08-03 14:12:30.825] [INFO] booking - disconnected from socket /#9hQSNFvPCweOTx6IAAAT
+[2016-08-03 14:34:49.427] [INFO] booking - App runs on  3000
+[2016-08-03 14:34:49.522] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 14:34:50.858] [INFO] booking - Connected to socket /#MJUnnYG-KS0TIwLUAAAA
+[2016-08-03 14:35:01.647] [INFO] booking - disconnected from socket /#MJUnnYG-KS0TIwLUAAAA
+[2016-08-03 14:35:25.030] [INFO] booking - User with test4@chisw.com login
+[2016-08-03 14:35:25.176] [INFO] booking - Connected to socket /#kmyyK9sdMwCWOpiXAAAB
+[2016-08-03 14:35:25.208] [INFO] booking - Request for all rooms
+[2016-08-03 14:35:26.191] [INFO] booking - Connected to socket /#YufVyLlgImNgBNpZAAAC
+[2016-08-03 14:35:27.417] [INFO] booking - Connected to socket /#LPi2eMEnCsLV_sqoAAAD
+[2016-08-03 14:35:32.477] [INFO] booking - Connected to socket /#Vy_Vl6PTsriMCdQlAAAE
+[2016-08-03 14:35:37.539] [INFO] booking - Connected to socket /#WGdZH_zlJrR4GikjAAAF
+[2016-08-03 14:35:42.589] [INFO] booking - Connected to socket /#GLmPTVqYVZOPJa8xAAAG
+[2016-08-03 14:35:47.659] [INFO] booking - Connected to socket /#0Clr58XRSJrT9HLlAAAH
+[2016-08-03 14:36:50.225] [INFO] booking - disconnected from socket /#kmyyK9sdMwCWOpiXAAAB
+[2016-08-03 14:36:51.188] [INFO] booking - disconnected from socket /#YufVyLlgImNgBNpZAAAC
+[2016-08-03 14:36:52.417] [INFO] booking - disconnected from socket /#LPi2eMEnCsLV_sqoAAAD
+[2016-08-03 14:36:57.481] [INFO] booking - disconnected from socket /#Vy_Vl6PTsriMCdQlAAAE
+[2016-08-03 14:37:02.541] [INFO] booking - disconnected from socket /#WGdZH_zlJrR4GikjAAAF
+[2016-08-03 14:37:07.588] [INFO] booking - disconnected from socket /#GLmPTVqYVZOPJa8xAAAG
+[2016-08-03 14:37:12.653] [INFO] booking - disconnected from socket /#0Clr58XRSJrT9HLlAAAH
+[2016-08-03 14:42:56.104] [INFO] booking - Connected to socket /#ZOEWG14yU8EqotrVAAAI
+[2016-08-03 14:42:56.454] [INFO] booking - Request for all rooms
+[2016-08-03 14:44:50.037] [INFO] booking - App runs on  3000
+[2016-08-03 14:44:50.057] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 14:44:52.443] [INFO] booking - Connected to socket /#PJBvUntqf5EryyDrAAAA
+[2016-08-03 14:45:28.415] [INFO] booking - User with test2@chisw.com login
+[2016-08-03 14:45:30.290] [INFO] booking - Request for all rooms
+[2016-08-03 14:47:10.916] [INFO] booking - disconnected from socket /#PJBvUntqf5EryyDrAAAA
+[2016-08-03 14:54:41.515] [INFO] booking - Connected to socket /#_X_qXJMiXvZ7n-xFAAAB
+[2016-08-03 14:54:42.038] [INFO] booking - Request for all rooms
+[2016-08-03 14:54:48.770] [INFO] booking - User 579f1c8b6c4d5a858014bcbf now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 14:54:48.798] [INFO] booking - Request for all rooms
+[2016-08-03 14:55:08.725] [INFO] booking - User 579f1c8b6c4d5a858014bcbf stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 14:55:08.745] [INFO] booking - Request for all rooms
+[2016-08-03 14:55:36.791] [INFO] booking - Request for all rooms
+[2016-08-03 14:56:19.251] [INFO] booking - disconnected from socket /#_X_qXJMiXvZ7n-xFAAAB
+[2016-08-03 15:09:52.229] [INFO] booking - Connected to socket /#Sgu6LBMoNBD2o3xJAAAC
+[2016-08-03 15:10:16.348] [INFO] booking - User with test3@chisw.com login
+[2016-08-03 15:10:16.534] [INFO] booking - Request for all rooms
+[2016-08-03 15:10:26.896] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 15:10:26.927] [INFO] booking - Request for all rooms
+[2016-08-03 15:10:37.401] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 15:10:37.458] [INFO] booking - Request for all rooms
+[2016-08-03 15:11:04.575] [INFO] booking - Request for all rooms
+[2016-08-03 15:11:34.053] [INFO] booking - Request for all rooms
+[2016-08-03 15:11:41.082] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a4
+[2016-08-03 15:11:41.113] [INFO] booking - Request for all rooms
+[2016-08-03 15:11:41.123] [INFO] booking - Request for all rooms
+[2016-08-03 15:11:50.838] [INFO] booking - User 579f1c8b6c4d5a858014bcbe stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 15:11:50.906] [INFO] booking - Request for all rooms
+[2016-08-03 15:11:50.910] [INFO] booking - Request for all rooms
+[2016-08-03 15:11:50.916] [INFO] booking - Request for all rooms
+[2016-08-03 15:11:58.298] [INFO] booking - User with the test3@chisw.com past token check
+[2016-08-03 15:12:24.169] [INFO] booking - Request for all rooms
+[2016-08-03 15:12:31.179] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 15:12:31.225] [INFO] booking - Request for all rooms
+[2016-08-03 15:12:31.230] [INFO] booking - Request for all rooms
+[2016-08-03 15:14:12.627] [INFO] booking - disconnected from socket /#Sgu6LBMoNBD2o3xJAAAC
+[2016-08-03 15:47:41.467] [INFO] booking - App runs on  3000
+[2016-08-03 15:47:41.491] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 15:48:26.580] [INFO] booking - Connected to socket /#li1eqFaNJRz0UYBRAAAA
+[2016-08-03 15:49:35.451] [INFO] booking - disconnected from socket /#li1eqFaNJRz0UYBRAAAA
+[2016-08-03 15:55:32.108] [INFO] booking - Connected to socket /#Jp-w5KgKS9EcUnZ2AAAB
+[2016-08-03 15:56:27.423] [INFO] booking - User with test4@chisw.com login
+[2016-08-03 15:56:28.848] [INFO] booking - Request for all rooms
+[2016-08-03 15:57:02.589] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 15:57:02.618] [INFO] booking - Request for all rooms
+[2016-08-03 16:00:30.344] [INFO] booking - App runs on  3000
+[2016-08-03 16:00:30.368] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 16:00:31.637] [INFO] booking - Connected to socket /#y1FOzbPwDmTIwgIbAAAA
+[2016-08-03 16:00:37.131] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 16:00:37.211] [INFO] booking - Request for all rooms
+[2016-08-03 16:00:37.219] [INFO] booking - Request for all rooms
+[2016-08-03 16:03:14.783] [INFO] booking - App runs on  3000
+[2016-08-03 16:03:14.803] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 16:03:16.257] [INFO] booking - Connected to socket /#gY3P0TQITIBdS5vQAAAA
+[2016-08-03 16:03:19.905] [INFO] booking - Connected to socket /#OowgsIwWlZMq35-XAAAB
+[2016-08-03 16:03:20.395] [INFO] booking - Request for all rooms
+[2016-08-03 16:03:24.858] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 stop follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 16:03:24.879] [INFO] booking - Request for all rooms
+[2016-08-03 16:04:32.545] [INFO] booking - App runs on  3000
+[2016-08-03 16:04:32.566] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 16:04:34.683] [INFO] booking - Connected to socket /#YT3dNCpHsCTzG3qeAAAA
+[2016-08-03 16:04:37.204] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 16:04:37.319] [INFO] booking - Request for all rooms
+[2016-08-03 16:04:37.326] [INFO] booking - Request for all rooms
+[2016-08-03 16:11:41.810] [INFO] booking - disconnected from socket /#YT3dNCpHsCTzG3qeAAAA
+[2016-08-03 16:57:53.645] [INFO] booking - App runs on  3000
+[2016-08-03 16:57:53.684] [INFO] booking - Connected to mongodb://localhost/booking
+[2016-08-03 17:02:40.630] [INFO] booking - Connected to socket /#eAmES2vKnLatiVlpAAAA
+[2016-08-03 17:02:40.939] [INFO] booking - Request for all rooms
+[2016-08-03 17:02:49.778] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 now follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 17:02:49.819] [INFO] booking - Request for all rooms
+[2016-08-03 17:03:13.964] [INFO] booking - User 579f1c8b6c4d5a858014bcc0 stop follow room 5799f953d68d3ffdf5c2c4a1
+[2016-08-03 17:03:13.981] [INFO] booking - Request for all rooms
+[2016-08-03 17:04:02.251] [INFO] booking - Connected to socket /#BGk639IzHqOrU4PvAAAB
+[2016-08-03 17:04:02.307] [INFO] booking - Request for all rooms
+[2016-08-03 17:04:24.377] [INFO] booking - User 579f1c8b6c4d5a858014bcbe now follow room 5799f953d68d3ffdf5c2c4a2
+[2016-08-03 17:04:24.405] [INFO] booking - Request for all rooms
+[2016-08-03 17:04:24.420] [INFO] booking - Request for all rooms
+[2016-08-03 17:04:24.427] [INFO] booking - Request for all rooms
+                                                                                                                                                                                                                                                                                                                                                                                      

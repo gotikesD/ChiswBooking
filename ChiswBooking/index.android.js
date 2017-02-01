@@ -4,6 +4,7 @@ import  {
   AppRegistry
 } from 'react-native';
 
+console.disableYellowBox = true;
 
 AppRegistry
   .registerComponent(

@@ -1,5 +1,4 @@
 import React from 'react'
-import { View, Text , AsyncStorage , ListView , TouchableHighlight , Image , TouchableOpacity , Alert } from 'react-native'
 import Api from '../../api'
 import jwtDecode from  'jwt-decode'
 import Style from '../../styles'
@@ -7,11 +6,25 @@ import RoomHolder from './RoomHolder'
 import styles from '../../styles/'
 import Modal from 'react-native-simple-modal';
 
+import {
+  AppState,
+  View,
+  Text,
+  AsyncStorage,
+  ListView,
+  TouchableHighlight,
+  Image,
+  TouchableOpacity,
+  Alert
+} from 'react-native'
+
+import socket from '../../sockets';
 
 class Main extends React.Component {
 
   constructor(props) {
     super(props);
+    this.handleAppStateChange = this.handleAppStateChange.bind(this);
     this.state = {
       firstName : '',
       secondName : '',
@@ -21,36 +34,43 @@ class Main extends React.Component {
     };
   }
 
-
   componentDidMount() {
     this.getToken();
+    AppState.addEventListener('change', this.handleAppStateChange);
   }
 
+  componentWillUnmount() {
+    AppState.removeEventListener('change', this.handleAppStateChange)
+  }
+
+  handleAppStateChange(appState) {
+    if (appState === 'background') {
+
+      console.log('app is in background');
+    }
+  }
 
   async getToken() {
     let token = await AsyncStorage.getItem('token');
     if(token) {
-      let email = jwtDecode(token)._doc.email
-      this.setState({currentUser : email})
-      let firstName = jwtDecode(token)._doc.firstName;
-      let secondName = jwtDecode(token)._doc.secondName;
-      this.setState({firstName : firstName})
-      this.setState({secondName : secondName})
-      this.setState({token : token})
+      let { email, firstName, secondName } = jwtDecode(token)._doc;
+      this.setState({
+        currentUser : email,
+        firstName : firstName,
+        secondName : secondName,
+        token : token
+      });
     }
   }
 
    logout() {
-
-
     AsyncStorage.getAllKeys((err, keys) => {
       AsyncStorage.multiRemove(keys, (err) => {
         if(err) {
           console.log(err)
         } else {
           let loggedUser = this.state.currentUser;
-          this.setState({currentUser : ''});
-          this.setState({logout : true})
+          this.setState({currentUser : '', logout : true});
           this.props.navigator.push({name : 'Login'})
         }
       })
@@ -66,11 +86,13 @@ class Main extends React.Component {
         {text: 'OK', onPress: () => this.logout()},
       ]
     )
-
-
   }
 
   render() {
+    socket.on('signForRoomFeedback', () => {
+      alert('Sign for room feedback');
+    })
+
     return (
       <View>
         <View style={{marginTop : 10, marginLeft : 25 , flexDirection : 'row'}}>
@@ -81,14 +103,14 @@ class Main extends React.Component {
         </View>
         <View>
           <RoomHolder
-            logout={this.state.logout} navigator={this.props.navigator} token={this.state.token} />
+            logout={this.state.logout}
+            navigator={this.props.navigator}
+            token={this.state.token}
+            socket={socket} />
         </View>
       </View>
     )
   }
 }
-
-
-
 
 export default Main

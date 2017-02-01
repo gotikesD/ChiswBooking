@@ -38,12 +38,11 @@ class SingleRoom extends React.Component {
   }
 
   async getToken(callback) {
-    let token = await AsyncStorage.getItem('token')
-    let id = jwtDecode(token)._doc._id
-    let userName = jwtDecode(token)._doc.firstName + ' ' + jwtDecode(token)._doc.secondName
-    this.setState({userId : id})
-    this.setState({userName : userName})
-    callback(token)
+    let token = await AsyncStorage.getItem('token');
+    let id = jwtDecode(token)._doc._id;
+    let userName = jwtDecode(token)._doc.firstName + ' ' + jwtDecode(token)._doc.secondName;
+    this.setState({userId : id, userName : userName});
+    callback(token);
   }
 
   async timePickerAndroidStart(start) {
@@ -51,7 +50,7 @@ class SingleRoom extends React.Component {
     try {
       const startTime = await TimePickerAndroid.open({
         hour: start,
-        minute: moment().minute()
+        minute: 0
       });
       if (startTime.action !== TimePickerAndroid.dismissedAction) {
         let time = {}
@@ -71,7 +70,7 @@ class SingleRoom extends React.Component {
 
       const endTime = await TimePickerAndroid.open({
         hour: time.minute >= 50 ? + time.hour + 1 : time.hour,
-        minute: time.minute + 10,
+        minute: 0,
         is24Hour: true,
       });
       if (endTime.action !== TimePickerAndroid.dismissedAction) {
@@ -104,7 +103,7 @@ class SingleRoom extends React.Component {
     } else if (+startTimeFormat > +endTimeFormat) {
       alert('Your start time less then end time')
     } else if (minReserverTime < 0.1 || startTimeFormat === endTimeFormat ) {
-      alert('Min time to book - 10 minutes')
+      alert('Min book time - 10 minutes')
     } else if (endTime.hour - startTime.hour > 4) {
       alert('Max meeting time is - 3 hours.')
     } else {
@@ -199,19 +198,14 @@ class SingleRoom extends React.Component {
     this.updateMeetingList(room)
   }
 
-  cancelAttempt(roomId, id, start, end) {
+   cancelAttempt(roomId, id, start, end) {
     this.getToken((token) => {
       let userId = jwtDecode(token)._doc._id;
       if (userId === id) {
         Api.cancelMeeting(roomId, token, start, end, (answer) => {
           if (answer) {
-            let date = this.state.selectedDate
-            Api.singleRoomMeetings(roomId, token, date, (answer) => {
-              if (!answer.message) {
-                this.updateMeetingList(roomId)
+            this.updateMeetingList(roomId)
                 alert('You delete meeting')
-              }
-            })
           }
         })
       }
@@ -234,7 +228,6 @@ class SingleRoom extends React.Component {
     })
   }
 
-  modalTest() {}
 
 
   render() {
@@ -270,8 +263,8 @@ class SingleRoom extends React.Component {
                     <Text>{'END - '+moment(rowInnerData.end).format('HH mm')}</Text>
                 </View>
                 </View>
-                <TouchableHighlight style={ userId === rowInnerData.client ? {position : 'absolute' , top : 2 ,right : 2 , borderRadius : 10} : {left : -999}} onPress={this.cancelAttempt.bind(this,rowInnerData.room,rowInnerData.client, rowInnerData.start, rowInnerData.end)}>
-                    <Image source={ require('../../img/close-button.png')}  style={ userId === rowInnerData.client ? '' : { height : 0 }} />
+                <TouchableHighlight style={ userId === rowInnerData.client ? {position : 'absolute' , top : 5 ,right : 5 , borderRadius : 10} : {left : -999}} onPress={this.cancelAttempt.bind(this,rowInnerData.room,rowInnerData.client, rowInnerData.start, rowInnerData.end)}>
+                    <Image source={ require('../../img/close-button.png')}  style={ userId === rowInnerData.client ? {width : 15, height : 15} : { height : 0 }} />
                 </TouchableHighlight>
               </View>
             )
@@ -300,7 +293,7 @@ class SingleRoom extends React.Component {
       <View>
 
 
-        <View style={{height : 80}}>
+        <View style={{height : 40}}>
           <NavigationBar
             title={<NAV_TITLE text="Calendar"/>}
             style={{'backgroundColor' : 'black',height : 40}}
@@ -322,31 +315,6 @@ class SingleRoom extends React.Component {
           </Swiper>
         </View>
         {meetingsScroll}
-        <Modal
-          offset={this.state.offset}
-          open={this.state.open}
-          modalDidOpen={() => console.log('modal did open')}
-          modalDidClose={() => this.setState({open: false})}
-          style={{alignItems: 'center'}}>
-          <View>
-            <Text style={{fontSize: 10, marginBottom: 5}}>Hello world!</Text>
-            <TouchableOpacity
-              style={{margin: 2}}
-              onPress={() => this.setState({offset: -100})}>
-              <Text>Move modal up</Text>
-            </TouchableOpacity>
-            <TouchableOpacity
-              style={{margin: 2}}
-              onPress={() => this.setState({offset: 0})}>
-              <Text>Reset modal position</Text>
-            </TouchableOpacity>
-            <TouchableOpacity
-              style={{margin: 2}}
-              onPress={() => this.setState({open: false})}>
-              <Text>Close modal</Text>
-            </TouchableOpacity>
-          </View>
-        </Modal>
       </View>
     )
   }

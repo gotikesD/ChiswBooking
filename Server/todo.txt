@@ -1,0 +1,2 @@
+1. Rooms have status: free, booked
+2. Client1 follows room1

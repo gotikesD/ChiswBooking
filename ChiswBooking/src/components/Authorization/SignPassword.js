@@ -21,15 +21,13 @@ class SignCheck extends React.Component {
   }
 
   componentWillMount() {
-    this.getUser()
+    this.getUser();
   }
 
   async getUser() {
     let item = await AsyncStorage.getItem('user');
-    let user = JSON.parse(item)
-    this.setState({user: user})
-    this.setState({firstName: user.firstName})
-    this.setState({secondName: user.secondName})
+    let user = JSON.parse(item);
+    this.setState({user: user, firstName: user.firstName, secondName: user.secondName});
   }
 
   async setToken(token) {
@@ -76,8 +74,8 @@ class SignCheck extends React.Component {
             Your account exists.
           </Text>
         </View>
-        <View style={styles.inputHolder}>
-          <TextInput  style={[styles.circeFont , styles.input]}
+        <View style={[styles.inputHolder, {width : 300}]}>
+          <TextInput  style={[styles.circeFont ]}
                       underlineColorAndroid={'#fff'}
                       placeholderTextColor="#D8D8D8"
                       placeholderStyle={styles.circeFont}
@@ -86,7 +84,7 @@ class SignCheck extends React.Component {
                       onChangeText={(value) => this.setState({password : value})}/>
         </View>
         <View style={styles.inputHolder}>
-          <TextInput  style={[styles.circeFont , styles.input]}
+          <TextInput  style={[styles.circeFont]}
                       underlineColorAndroid={'#fff'}
                       placeholderTextColor="#E9E8E8"
                       placeholderStyle={styles.circeFont}

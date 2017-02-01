@@ -36,10 +36,7 @@ class Holder extends React.Component {
      InteractionManager.runAfterInteractions(() => {
        this.tokenCheck()
      });
-
   }
-
-
 
   render() {
 
